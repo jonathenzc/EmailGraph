@@ -1,0 +1,488 @@
+0 Niko Tyni
+1 Steve Hay
+2 build...@apache.org
+3 Jan Kalu?a
+4 Torsten F?rtsch
+5 Perrin Harkins
+6 Andres Thomas Stivalet
+7 Fred Moyer
+8 Pavel V.
+9 Alexander Pyhalov
+10 Jan Kaluza
+11 Vick Khera
+12 Andy Colson
+13 sebb
+14 Jeff Trawick
+15 Joe Orton
+16 Philippe M. Chiasson
+17 Fairlight
+18 Jie Gao
+19 Michiel Beijen
+20 Adam Prime
+21 Joe Schaefer
+22 Issac Goldstand
+23 Kevin A. McGrail
+24 rich...@ecos.de
+25 Tom Browder
+26 Cosimo Streppone
+27 Paul Johnson
+28 Shane McCarron
+29 jdeighan
+30 Clinton Gormley
+31 Stefan Fritsch
+32 rubberboots
+33 Alex Krohn
+34 Alex Krohn
+35 Daniel Flinkmann
+36 Salusa Secondus
+37 SalusaSecondus
+38 Mark Hedges
+39 Mark Hedges
+40 Philip M. Gollucci
+41 Gavin McDonald
+42 Salvador Ortiz Garcia
+43 David E. Wheeler
+44 peng wei
+45 Rainer Jung
+46 E R
+47 Elizabeth Mattijsen
+48 Jie
+49 Al Mollenkopf
+50 Ryan Gies
+51 Randal L. Schwartz
+52 Mark Robinson
+53 Randy Kobes
+54 Jan Dubois
+55 Jan Schmidt
+56 David Dick
+57 Graham Barr
+58 Petr Sumbera
+59 dorian taylor
+60 kropotkin
+61 Jan Pazdziora
+62 Torsten Foertsch
+63 Sean Thorne
+64 Geoffrey Young
+65 csross
+66 Rainer Tammer
+67 Oliver Block
+68 Gavin
+69 Mark Moseley
+70 Tupshin Harper
+71 Casey West
+72 Frank Wiles
+73 Deepak Tripathi
+74 snowcrash+modperl
+75 snowcrash+modperl
+76 Vivek Khera
+77 William A. Rowe, Jr.
+78 Ali ISIK
+79 Radoslaw Zielinski
+80 LaShan Arceneaux
+81 Peter Valdemar M?rch
+82 Roderich Schupp
+83 Heiko Jansen
+84 Andy Armstrong
+85 Dmitry Karasik
+86 f...@taperfriendlymusic.org
+87 Anu Gupta DCSA
+88 Nikolay Ananiev
+89 Matt Sergeant
+90 Philip Gollucci
+91 Jonathan Vanasco
+92 Christopher Shumway
+93 Amish Desai
+94 Supun Kamburugamuva
+95 Mr Nelson Cole
+96 Miles Crawford
+97 aynsy
+98 Alden DoRosario
+99 Stas Bekman
+100 Bede Law
+101 Tristen Morris
+102 David Wheeler
+103 Ask Bj?rn Hansen
+104 dow...@eurochannel.de
+105 Myriam Kreitzer
+106 Dave Rolsky
+107 Simon Luff
+108 Landon Carter
+109 Qasem Sweilem
+110 Paul Querna
+111 Wayland Mcculley
+112 Austyn Brochu
+113 Lowri Clopton
+114 Michele Zuehlke
+115 Kim Leng Goh
+116 Andrew Gerrish
+117 Rafael Garcia-Suarez
+118 Tom Schindl
+119 Serena Wolverton
+120 Dan Carwin
+121 Erika
+122 Darryl Miles
+123 Mared Schranz
+124 Glaw Ridlon
+125 Cearbhall Albus
+126 Malcolm J Harwood
+127 Mike Smith
+128 Javier Uruen Val
+129 Goehring, Chuck
+130 Gerald Richter
+131 Ruslan Zakirov
+132 Christopher H. Laco
+133 Scott Wessels
+134 Jun Kuriyama
+135 Hania Sabbidin Dimassi
+136 Adam Kennedy
+137 Doug MacEachern
+138 Michael Schout
+139 Andy_B...@wiwb.uscourts.gov
+140 Bobby Gardner
+141 Kip
+142 Brooks
+143 Aline Contreras
+144 Nick ***
+145 Ian Holsman
+146 Julie Willis
+147 Aaron Scott
+148 Everett Lusk
+149 Angelina
+150 Coleen
+151 Numbers
+152 Martha Hammond
+153 Reid Gonzales
+154 Joann Reyna
+155 Markus Wichitill
+156 Marcia Penn
+157 ebenezer siamack
+158 Philip M. Golllucci
+159 Gus
+160 Christian Hansen
+161 Alvin Carpenter
+162 Yolanda
+163 n...@ing-simmons.net
+164 Carl Brewer
+165 Stephen Mcghee
+166 Uwe Voelker
+167 Lincoln Stein
+168 Rici Lake
+169 Cliff Woolley
+170 Damon Buckwalter
+171 Dominique Quatravaux
+172 Gedanken
+173 Render Web
+174 Alecos Dilyana
+175 K Tensmeyer
+176 Pratik
+177 John Peacock
+178 Jeremy Redburn
+179 Eric Cholet
+180 Gisle Aas
+181 Nick Ing-Simmons
+182 Gurusamy Sarathy
+183 Nicholas Clark
+184 postmas...@prf.com
+185 Glenn Strauss
+186 Ben Mehling
+187 Larry Leszczynski
+188 Florence Terrell
+189 Antonio Spears
+190 Garrett Rooney
+191 John Saylor
+192 Salve J Nilsen
+193 Ken Williams
+194 Murugan K
+195 MGorbu...@imbank.ru
+196 Vitor
+197 Ken Simpson
+198 Autrijus Tang
+199 Boris Zentner
+200 Kermit Tensmeyer
+201 Jason Woodward
+202 Rude Yak
+203 Phil Pennock
+204 wood chen
+205 Margo Swanson
+206 Lori Massey
+207 j...@activestate.com
+208 Therese Gomes
+209 Parr
+210 Carmela Hand
+211 Piper
+212 Marina
+213 Hunter
+214 Darby
+215 Francesca
+216 Arturo Haas
+217 Kim
+218 Patrick Donker
+219 Ted Preston
+220 John Wittkoski
+221 Benjamin Levine
+222 Viola Colvin
+223 Rusty Dow
+224 Imogene Guy
+225 Charlene Metz
+226 Madelyn Dodd
+227 abu_45 Akers
+228 Deana Lujan
+229 Kelley Reyes
+230 Jorge Lovett
+231 Deanna Key
+232 Patricia Hogan
+233 Rudy Moyer
+234 Corinne Garza
+235 Connie Huynh
+236 Lynn Putnam
+237 stas
+238 Marcelino Flanagan
+239 Octavio Suggs
+240 Kris Godwin
+241 Sanford Wiley
+242 Lelia Otto
+243 Brandie Montoya
+244 Agnes Alston
+245 Brian Millett
+246 Simon Hollier
+247 Josef Flood
+248 gSOAP acct
+249 Beau E. Cox
+250 Stefanie Padilla
+251 Merle Peterson
+252 Bobby Ortiz
+253 Jasper Clay
+254 Dionne Tyler
+255 Rosalie Hutchins
+256 Basil Cash
+257 Julio Rasmussen
+258 Sharon Crenshaw
+259 Rolland Powell
+260 Obitz, Toby
+261 Jarred Ashley
+262 Kiki
+263 August Jimenez
+264 Dev-subscribe
+265 Dperl-unsubscribe
+266 Jeff Beer
+267 Andres Salomon
+268 Elba Keenan
+269 Stefan Traby
+270 Quentin Dahl
+271 Imogene Johnson
+272 Jenifer Donaldson
+273 Dwight Bartley
+274 Bryant Chatman
+275 Katharine Johnson
+276 Martyn Peck
+277 Debora Wall
+278 Estella Biggs
+279 Rose Dewitt
+280 hundt paffenbarger
+281 Collin Levine
+282 Zcwhu
+283 Brad Lanam
+284 t..@library.ho.lucent.com
+285 vp_1okqcqw...@anfmail.com
+286 Tulan W. Hu
+287 Apmail-httpd-docs-archive
+288 Kurt George Gjerde
+289 Link
+290 Apmail-mirrors-archive
+291 Apmail-apr-cvs-archive
+292 Travelagents
+293 Kailden K
+294 Rkruse
+295 Apmail-perl-asp-archive
+296 stevan little
+297 Jbi-api
+298 Apmail-cocoon-cvs-archive
+299 Teknoids
+300 Enrico Sorcinelli
+301 Zeng, Kelly (NIH/NLM/LHC)
+302 Barbara Post
+303 OpenMacNews
+304 Volker Kroll
+305 Samip Mehra
+306 Marcus Doemling
+307 Jun Perl
+308 Alex Khrenov
+309 Haroon Rafique
+310 Bobber Cheng
+311 ydnar
+312 ydnar
+313 Juanma Barranquero
+314 Tyler 'Crackerjack' MacDonald
+315 Aaron Paetznick
+316 Andr¨¦ Malo
+317 Barrie Slaymaker
+318 Ayhan Ulusoy
+319 Andrew Wyllie
+320 Simon Flack
+321 Hans-Ruodi Burch (BE/EAS)
+322 dreday1...@mail15.com
+323 Sreeji K Das
+324 ad...@xghosting.com
+325 mkun...@arcor.de
+326 Ewan Edwards
+327 Jarkko Hietaniemi
+328 christ...@skarby.no
+329 Adolph Torres
+330 Peter Poeml
+331 Allison, Jason (JALLISON)
+332 Dan Wilga
+333 Arthur Bergman
+334 Ed Ruben
+335 Rudy Lippan
+336 Tim Bunce
+337 Radu Greab
+338 Hans-Ruodi Burch (EA/EAS)
+339 Jerrad Pierce
+340 Bill Marrs
+341 Stewart Gebbie
+342 belg4...@MIT.EDU
+343 Jason
+344 Matt
+345 Hans-Ruodi Burch (EAS)
+346 Richard F. Rebel
+347 James G Smith
+348 steve.sparl...@ps.ge.com
+349 Josh Chamas
+350 Bruce Schuck
+351 Dmitri Tikhonov
+352 Gary Benson
+353 Karl M. Hegbloom
+354 Patrick Mulvany
+355 John Heitmann
+356 Steve Leibel
+357 Olaf Bohlen
+358 Batara Kesuma
+359 Sparling, Steve (PS, GENS)
+360 Nick Tonkin
+361 Rhys Hopkins
+362 Rafael Mart¨ªnez Torres
+363 Edward Hodges
+364 Dr. Helmut Zeilinger
+365 J S
+366 Helmut Zeilinger
+367 Nathan Byrd
+368 Jon Salz
+369 Ask Bjoern Hansen
+370 David Morton
+371 Daniel Jacobowitz
+372 Michel Machado
+373 Paul Older
+374 A. Bergman
+375 A. Bergman
+376 ayhan
+377 Brian P Millett
+378 Leon Brocard
+379 Esteban Fernandez Stafford
+380 DH
+381 Lyle Brooks
+382 Daryl Lee
+383 Nikolaus Rath
+384 Thomas Eibner
+385 Matthew Byng-Maddick
+386 Kyle Oppenheim
+387 mod_perl
+388 Daniel Eggert
+389 Sumitro Chowdhury
+390 Stephen Clouse
+391 Per Einar Ellefsen
+392 Yuriy Syrota
+393 Rick Bradley
+394 Gunes Koru
+395 Andrew M. Williams
+396 Bradley Baetz
+397 Dipl.-Inform. Kai Hofmann
+398 Walery Studennikov
+399 Tatsuhiko Miyagawa
+400 Dave Smith
+401 Andreas J. Koenig
+402 Jeff Chen
+403 Steve Grazzini
+404 Matthew Bernstein
+405 Robin Berjon
+406 Kent, Mr. John
+407 H Jayakumar
+408 ian Holsman
+409 R Blake
+410 Herbert Rosmanith
+411 Alessandro Forghieri
+412 Ville Skytt?
+413 Gerald Richter - ecos gmbh
+414 Eldon Lewis
+415 Bill Moseley
+416 David Jacobs
+417 Richard S. Blake
+418 Fisher, James
+419 Jim Helm
+420 Chuck Goehring
+421 Peter Rothermel
+422 A.C.Sekhar
+423 IEEE Consulting
+424 Hans Juergen von Lengerke
+425 OCNS Consulting
+426 Daniel R Risacher
+427 Jeff Stuart
+428 Sebastian Bergmann
+429 raptor
+430 Jay Lawrence
+431 brian moseley
+432 Chonger
+433 Rick Myers
+434 Craig McLane
+435 Bryan T. Schmidt
+436 Jens-Uwe Mager
+437 Philippe M . Chiasson
+438 Vladimir Volovich
+439 clayton cottingham
+440 Nathan Torkington
+441 Alexander Pavlovic
+442 jch...@johncheng.dhs.org
+443 vijay
+444 Stas
+445 Tom Lancaster
+446 Ryan Bloom
+447 Brian Behlendorf
+448 Lyle D. Brooks
+449 sterling
+450 Lars Eilebrecht
+451 Brian Aker
+452 The Doctor
+453 Thies C. Arntzen
+454 Roy T. Fielding
+455 barries
+456 Wilt, Paul
+457 Frank D. Cringle
+458 Jeffrey A. Stuart
+459 Bjarni R. Einarsson
+460 Andy Wardley
+461 G.Richter
+462 do...@apache.org
+463 Joshua Chamas
+464 joshnar...@hs.hikory.com
+465 Paul Cotter
+466 Paul Sharpe
+467 Chris Nokleberg
+468 Jim Winstead
+469 Sean Chittenden
+470 Sean Chittenden
+471 G.W. Haywood
+472 Alexander Farber (EED)
+473 John K Sterling
+474 Bruce W. Hoylman
+475 Lupe Christoph
+476 John K. Sterling
+477 Thomas von Elling Skifter Eibner
+478 Sander van Zoest
+479 Soheil Seyfaie
+480 Charles Ying
+481 Yu-Fei Shen
+482 David Leeson
+483 Jiho Hahm
+484 T.J. Mather
+485 Alex Menendez
+486 Pires Claudio
+487 do...@pobox.com

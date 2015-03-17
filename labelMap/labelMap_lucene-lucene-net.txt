@@ -1,0 +1,339 @@
+0 Prescott Nasser
+1 Itamar Syn-Hershko
+2 Christopher Currens
+3 Zachary Gramana
+4 Michael Herndon
+5 x...@mail.ru
+6 Granroth, Neal V.
+7 Simon Svensson
+8 Nicholas Paldino [.NET/C# MVP]
+9 Christopher Currens (JIRA)
+10 Simone Chiaretta
+11 Troy Howard
+12 Zachary Gramana (JIRA)
+13 Prescott Nasser (JIRA)
+14 Wyatt Barnett
+15 Oren Eini (Ayende Rahien)
+16 Marcelo Vieira das Neves (JIRA)
+17 zoolette
+18 Stefan Bodewig
+19 Petersen, Robert
+20 Frank Yu
+21 Morten Jokumsen
+22 Trevor Watson
+23 Gregory Bell
+24 Ron Grabowski
+25 Scott Lombard
+26 Faizan Javed
+27 Rob Vesse
+28 Jackie Wong (JIRA)
+29 Misbah (JIRA)
+30 michael herndon (JIRA)
+31 Vanlerberghe, Luc
+32 Luc Vanlerberghe (JIRA)
+33 Andy Pook
+34 Digy
+35 Itamar Syn-Hershko (JIRA)
+36 Pavel Belousov (JIRA)
+37 Michael McCandless
+38 Benson Margulies
+39 Simon Svensson (JIRA)
+40 Andreas Mummenhoff
+41 Steven (JIRA)
+42 Glyn Darkin
+43 Aleksandar Panov (JIRA)
+44 Todd Lucas
+45 Christopher Currens (Assigned) (JIRA)
+46 Christopher Currens (Updated) (JIRA)
+47 Itamar Syn-Hershko (Commented) (JIRA)
+48 Christopher Currens (Commented) (JIRA)
+49 Aleksandar Panov (Created) (JIRA)
+50 Christopher Currens (Created) (JIRA)
+51 Chad T (Commented) (JIRA)
+52 Bj?rn Kremer
+53 Digy (Closed) (JIRA)
+54 Bj?rn (Commented) (JIRA)
+55 Digy (Commented) (JIRA)
+56 Bj?rn (Reopened) (JIRA)
+57 Craig Main
+58 Chris Waterman
+59 Raymond
+60 Franklin, Matthew B.
+61 Pedro Lamas (Commented) (JIRA)
+62 Prescott Nasser (Commented) (JIRA)
+63 Christopher Currens (Resolved) (JIRA)
+64 Jon (Created) (JIRA)
+65 Christopher Currens (Closed) (JIRA)
+66 Andrew Sampson (Created) (JIRA)
+67 Simon Svensson (Commented) (JIRA)
+68 Suraj Pant (Commented) (JIRA)
+69 Prescott Nasser (Closed) (JIRA)
+70 Christopher Currens (Reopened) (JIRA)
+71 Troy Howard (Commented) (JIRA)
+72 Jean-Sylvain Boige
+73 Robert Jordan
+74 Aaron Powell
+75 Santiago M. Mola (Closed) (JIRA)
+76 Mark Rodseth (Created) (JIRA)
+77 Prescott Nasser (Resolved) (JIRA)
+78 Jo?o Rosa (Created) (JIRA)
+79 Prescott Nasser (Issue Comment Edited) (JIRA)
+80 Prescott Nasser (Created) (JIRA)
+81 Jo?o Rosa (Commented) (JIRA)
+82 Sean Newham
+83 michael herndon (Commented) (JIRA)
+84 Pieter van Ginkel (Created) (JIRA)
+85 Brian Sayatovic
+86 michael herndon
+87 Santiago M. Mola (Created) (JIRA)
+88 Alexey Shcherbachev
+89 Rory Plaire
+90 Digy (Updated) (JIRA)
+91 Digy (Resolved) (JIRA)
+92 Alex Thompson
+93 Scott Lombard (Updated) (JIRA)
+94 Prescott Nasser (Updated) (JIRA)
+95 Christopher Currens (Issue Comment Edited) (JIRA)
+96 Stefan Bodewig (Commented) (JIRA)
+97 Stefan Bodewig (Created) (JIRA)
+98 Stefan Bodewig (Updated) (JIRA)
+99 Michael Herndon (Commented) (JIRA)
+100 Jeff Johnson (Commented) (JIRA)
+101 Prescott Nasser (Assigned) (JIRA)
+102 Stuart Robinson (Commented) (JIRA)
+103 Ivan von Nagy
+104 casper...@caspershouse.com
+105 Asha Kang
+106 alex thompson
+107 Danijel Kecman
+108 Vivien (Created) (JIRA)
+109 Vivien (Closed) (JIRA)
+110 Itamar Syn-Hershko (Created) (JIRA)
+111 michael herndon (Created) (JIRA)
+112 Matt Warren
+113 digy digy
+114 Nicholas Paldino [.NET/C MVP#]
+115 Andy Twidle (JIRA)
+116 x...@mail.ru (JIRA)
+117 Digy (JIRA)
+118 Robert Stewart
+119 Stuart Robinson (JIRA)
+120 Dan Swain
+121 Richard Wilde
+122 no-re...@apache.org
+123 Troy Howard (JIRA)
+124 David Betteridge (JIRA)
+125 Alex Maskaev (JIRA)
+126 Maverick904 (JIRA)
+127 Ofer Vugman
+128 Jennifer Wilson
+129 Ben West (JIRA)
+130 Noel Lysaght
+131 §¬§å§Ù§ß§Ö§è§à§Ó §£§Ý§Ñ§Õ§Ú§Þ§Ú§â §¯§Ú§Ü§à§Ý§Ñ§Ö§Ó§Ú§é
+132 Ben West
+133 Pasha Bizhan (JIRA)
+134 Amanuel Workneh
+135 Ken Foskey
+136 Moray McConnachie
+137 Anders Lybecker
+138 Vincent DARON
+139 Alon Shwartz
+140 Michael Neel
+141 Sergey Mirvoda
+142 Vincent Van Den Berghe (JIRA)
+143 Van Den Berghe, Vincent (JIRA)
+144 K a r n a v
+145 Alexander Bauer
+146 Vijendra Patil
+147 H?kan Lindqvist (JIRA)
+148 Robert Jordan (JIRA)
+149 Niels K¨¹hnel (JIRA)
+150 Fedor Taiakin (JIRA)
+151 Fedor Taiakine (JIRA)
+152 Amanuel Workneh (JIRA)
+153 Ben Foster
+154 Rafael Bueno
+155 Neal Granroth (JIRA)
+156 Neal Granroth (JIRA)
+157 Ryan Barrett
+158 Wen Gao
+159 Mauricio Scheffer
+160 Hans Merkl
+161 Lombard, Scott
+162 Scott Lombard (JIRA)
+163 Alex Thompson (JIRA)
+164 Sergey Mirvoda (JIRA)
+165 Sergej Ko??ejev (JIRA)
+166 Ruben Pierich
+167 Peter Mateja
+168 Marko Lahma
+169 Ivan Zlatev (JIRA)
+170 Rahul Panwar (JIRA)
+171 Ayende Rahien
+172 build...@apache.org
+173 lucene lucene
+174 Nic Wise
+175 Andrey (JIRA)
+176 blat...@gmail.com
+177 Robert Muir
+178 Karell Ste-Marie
+179 Patric Forsgard (JIRA)
+180 asmcad
+181 Wade Girard
+182 Remacle, Yannik
+183 abhilash ramachandran
+184 Aaron Powell (JIRA)
+185 Khoa Vo
+186 TAKAHASHI hideaki
+187 Gadgil, Manish
+188 Grant Ingersoll
+189 Marco Dissel
+190 Ben Martz
+191 Andrei Iliev (JIRA)
+192 Arne Claassen
+193 Vincent Daron
+194 George Aroush
+195 Michael Mitiaguin
+196 Barry Latimer
+197 Ryan Hoffman
+198 Hakeem Mohammed
+199 K a r n a
+200 Paul Hadfield
+201 Andrew Busby
+202 Toke Eskildsen
+203 Scott Garland
+204 4mavi20
+205 Rida Al-Masri (JIRA)
+206 Johannes Roith
+207 Alex
+208 Dmitri Volsky
+209 Daniel Wertheim
+210 Kevin Miller
+211 Brett J (JIRA)
+212 Leonardo Azize Martins
+213 TJ Kolev
+214 Luis Fco. Ramriez Daza Glez
+215 Ravi Patel
+216 maimoona khan (JIRA)
+217 Jean-Fran?ois Beaulac
+218 Pamela Foxcroft
+219 Michael Garski (JIRA)
+220 Andy Pook (JIRA)
+221 Michael Garski
+222 Andrei Alecu
+223 Andrei Alecu
+224 Roger Chapman
+225 Erik Hatcher
+226 Andrew C. Smith
+227 Todd McIndoo
+228 Sean Carpenter
+229 Nicholas Paldino (JIRA)
+230 Sharad Goel
+231 George Aroush (JIRA)
+232 Jokin Cuadrado
+233 runenur
+234 runenur
+235 Eric Nicholson
+236 Franck Casado
+237 Rajiv Delwadia
+238 Eran Sevi
+239 Tien Do
+240 Minimalist Manager
+241 Landrix SE - Sven Harazim
+242 Laimonas Simutis
+243 Andrew Psaltis
+244 Kuhn-Kuester, Christian
+245 Olivier Aboilard
+246 Robert Petersen
+247 Halis SARITA?
+248 Luis Fco. Ramirez Daza Gonzalez
+249 Ivan Kohut
+250 Kenneth Dalgleish
+251 John Duerden
+252 Ryan Ische
+253 steven.h...@pattersoncompanies.com
+254 Doug Sale
+255 Ed Jones
+256 Scott Zhang
+257 Wagner Ignacio Pinto Junior
+258 Enrique Mart¨ªnez Z¨²?iga (JIRA)
+259 Rune Vistnes
+260 Floyd Wu
+261 Gerald Pape
+262 Vijay Santhanam (JIRA)
+263 Mirek Nov¨¢k
+264 Ian Vink (JIRA)
+265 Ben Martz (JIRA)
+266 TJ Kolev (JIRA)
+267 Jason Baumeister
+268 Johnson, Scott
+269 Charles Chang (JIRA)
+270 Zealot
+271 Dotzenrod, Kevin
+272 kazu (JIRA)
+273 Justine Demeyer
+274 Grimace of Despair (JIRA)
+275 Doug Sale (JIRA)
+276 Max Metral
+277 Jon Palmer
+278 Sean Carpenter (JIRA)
+279 Corey Trager
+280 Bruno Matos
+281 Thanks For The Venom
+282 Stephen Voorhees
+283 Kip Hughes
+284 Saurabh Dani
+285 tony njedeh
+286 Tim Schmidt
+287 Jeroen Lauwers
+288 Kurt Mackey
+289 Fernando Correia
+290 Zhiling Hong
+291 Eric McKnight
+292 Mohamed El-Zahaby
+293 Ken Katzgrau (JIRA)
+294 Shawn Liu
+295 David Gao
+296 Piotr Kolanowski
+297 Pauli ?ster? (JIRA)
+298 M.Zahaby
+299 Billow Gao
+300 Vijay Santhanam
+301 Shane Isbell
+302 Ciaran Roarty
+303 Tuna Toks?z
+304 Jeff
+305 Karol Rybak
+306 DIGY
+307 Jeff Rodenburg
+308 Joe Shaw
+309 Micky McQuade
+310 Erich Eichinger
+311 zarquon78 (JIRA)
+312 Petr Kadlec
+313 naveen.srikakolanu
+314 mich...@justanswer.com
+315 Andy Berryman
+316 Shaw, James
+317 Vova Tymchenko
+318 Atali DAOUD
+319 Raul Prieto Garc¨ªa (JIRA)
+320 Doug
+321 mitiagu...@optusnet.com.au
+322 thegall...@gmail.com
+323 Robert Boulanger
+324 Jon Gohr
+325 Joe Shaw (JIRA)
+326 Srinivas Vadrevu (JIRA)
+327 Kaufmann M.
+328 Neil Carson
+329 Eyal Post
+330 Ben Tregenna
+331 Ivan Gu?vinec (JIRA)
+332 Nicolas
+333 jxf jxf
+334 Nicolas Brel
+335 Sergiy Savchenko
+336 Atali Daoud
+337 J C
+338 Soormasher Singh

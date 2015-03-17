@@ -1,0 +1,516 @@
+0 Sucaz Moshe (JIRA)
+1 David Crossley (JIRA)
+2 Ross Gardler (MS OPEN TECH)
+3 Sjur Moshagen
+4 David Crossley
+5 Brian M Dube
+6 build...@apache.org
+7 Vicent Mas
+8 Gump
+9 User Forrest
+10 Brian M Dube (JIRA)
+11 Balakrishnan Nagaraja (JIRA)
+12 Raymie Stata (JIRA)
+13 Brolin Empey (JIRA)
+14 Stefan Bodewig
+15 Tim Williams
+16 Kristian Waagan (JIRA)
+17 Thorsten Scherler
+18 B?rre Gaup (JIRA)
+19 Sridhar Goranti (JIRA)
+20 Sridhar Goranti (JIRA)
+21 Sjur N. Moshagen (Commented) (JIRA)
+22 Cyriaque Dupoirieux
+23 Sjur N. Moshagen (Issue Comment Edited) (JIRA)
+24 Sjur N. Moshagen (Updated) (JIRA)
+25 David Crossley (Commented) (JIRA)
+26 Karl Wright (Commented) (JIRA)
+27 David Crossley (Updated) (JIRA)
+28 David Crossley (Closed) (JIRA)
+29 Forrestbot
+30 Hitoshi Ozawa (Commented) (JIRA)
+31 Karl Wright (Created) (JIRA)
+32 Karl Wright (Issue Comment Edited) (JIRA)
+33 Iain MacKay
+34 Brian M Dube (Closed) (JIRA)
+35 forrTann (JIRA)
+36 Glenn Meyers (JIRA)
+37 Mayan Abyon (JIRA)
+38 Jeremias Maerki (JIRA)
+39 Brolin Empey
+40 Sjur N. Moshagen (JIRA)
+41 Uparis Abeysena (JIRA)
+42 Antoine Levy-Lambert
+43 Antoine Levy-Lambert (JIRA)
+44 Bryce Alcock
+45 Benson Margulies
+46 Ross Gardler
+47 Juan Jose Pablos
+48 Gav...
+49 Tim Williams (JIRA)
+50 Sina K. Heshmati
+51 Forrest...@forrest.zones.apache.org
+52 Gavin (JIRA)
+53 Jeremias Maerki
+54 Sina Khakbaz Heshmati
+55 Thorsten Scherler (JIRA)
+56 Sjur N?rsteb? Moshagen
+57 Andreas Lehmkuehler
+58 Roger Lastname
+59 j...@apache.org
+60 Vicent (JIRA)
+61 Gavin
+62 Johannes Schaefer
+63 Heather Phipps (JIRA)
+64 EMMEL Thomas
+65 Chris Maloney (JIRA)
+66 Christopher Maloney
+67 Andrzej Bialecki
+68 Antoine ROBERT (JIRA)
+69 Christian Grobmeier
+70 Thomas Emmel (JIRA)
+71 Paul O'Connell (JIRA)
+72 Derek Baum (JIRA)
+73 Antoine Robert
+74 Carlos Tejo Alonso
+75 Cyriaque Dupoirieux (JIRA)
+76 Ferdinand Soethe
+77 Pablo Barrera
+78 Dmitriy Kargapolov (JIRA)
+79 Ross Gardler (JIRA)
+80 Jeff Turner
+81 Valentina Bincovscaia (JIRA)
+82 Johannes Schaefer (JIRA)
+83 Chr. Grobmeier
+84 Reinhard P?tz
+85 Gav....
+86 Sina K. Heshmati (JIRA)
+87 Ferdinand Soethe (JIRA)
+88 Charlie Rose
+89 CFAS Webmaster
+90 Carlos Tejo (JIRA)
+91 Jeremias Maerki-2
+92 Carsten Ziegeler
+93 stuart yeates (JIRA)
+94 Uwe Kreibaum (JIRA)
+95 Michael Parker (JIRA)
+96 Vincent Siveton
+97 llamar burgess
+98 Dominique Hazael-Massieux
+99 Oshani Seneviratne
+100 Oshani Seneviratne (JIRA)
+101 Vincent Siveton (JIRA)
+102 Antonio Gallardo
+103 fizoblon
+104 Nathan Kontny
+105 Martin Gm¨¹r
+106 Patrick Ohly (JIRA)
+107 Masato Nagai (JIRA)
+108 Michael Wechner
+109 Bart Molenkamp
+110 Chris Hostetter
+111 Wazir Abdool
+112 schumarer schumarer
+113 Schumarer
+114 Olivier Parent
+115 Schumarer (JIRA)
+116 Ron Blaschke
+117 Vadim Gritsenko (JIRA)
+118 C.Grobmeier
+119 Randy Metcalfe (JIRA)
+120 Clay Leeds (JIRA)
+121 Fyodor Kupolov (JIRA)
+122 C. Grobmeier
+123 shweta sharma (JIRA)
+124 Steve Masover
+125 andy
+126 Paul Kronenwetter (JIRA)
+127 B?rre Gaup
+128 Ray Mendonsa
+129 Juan David Botero
+130 Kenneth N. Flaxman
+131 Paul Bolger
+132 Ajani, Akil (Cognizant)
+133 Olivier Jacques (JIRA)
+134 Steve Odlind (JIRA)
+135 Gerardo Curiel (JIRA)
+136 Jim Dixon
+137 Arje Cahn
+138 Mathieu Champlon
+139 Cliff Schmidt
+140 Mathieu Champlon (JIRA)
+141 Erik van Zijst (JIRA)
+142 Addi
+143 Bertrand Delacretaz
+144 Maurice Gittens
+145 Jim Dixon (JIRA)
+146 Web Maestro Clay
+147 Josias Th?ny
+148 Mark Eggers
+149 Philip M. Gollucci
+150 Kevin
+151 Nico Veenkamp
+152 Nico Veenkamp (JIRA)
+153 Rick Tessner
+154 Clay Leeds
+155 Armin Waibel (JIRA)
+156 Armin Waibel
+157 Jesse Kuhnert (JIRA)
+158 Oliver Sch?fer (JIRA)
+159 Bruno Dumon
+160 Diwaker Gupta
+161 Torsten Stolpmann
+162 Ben Litchfield (JIRA)
+163 paul bolger (JIRA)
+164 Addison Berry (JIRA)
+165 Helena Edelson
+166 Trevor Miller
+167 Jean T. Anderson
+168 Jean T. Anderson (JIRA)
+169 ilango gurusamy (JIRA)
+170 philippe perez
+171 helena (JIRA)
+172 Steven Noels
+173 Richard Calmbach (JIRA)
+174 Claus Bech Rasmussen - TELMORE
+175 Johnson, Eric
+176 Calmbach, Richard
+177 Mark Eggers (JIRA)
+178 greg.v...@cox.net
+179 Aziz Hammadi
+180 Ville Karavirta
+181 Karthik Manimaran
+182 Fabian M¨¹ller
+183 Christoph Beck (JIRA)
+184 Diwaker Gupta (JIRA)
+185 Nicola Ken Barozzi
+186 addi
+187 rgardler_apa...@saafe.org
+188 a...@rocktreesky.com
+189 Sylvain Wallez
+190 Miroslav Mocek
+191 Vronk Daut (JIRA)
+192 Henning Sudbrock
+193 kevin (JIRA)
+194 Erik Brakkee (JIRA)
+195 Anil Ramnanan
+196 Leo Simons
+197 Martin van den Bemt
+198 br_ga...@e-wire.net.au
+199 Georg ?ttl (JIRA)
+200 Gregor J. Rothfuss
+201 Antonio Gallardo (JIRA)
+202 Daniel Fagerstrom
+203 HANAX
+204 Alex Batlin
+205 Alex Batlin (JIRA)
+206 Rasik Pandey
+207 Anil Ramnanan (JIRA)
+208 fuat ormaci (JIRA)
+209 Todd de Gruyl
+210 Rasik Pandey (JIRA)
+211 Joachim Breitsprecher
+212 Ron Blaschke (JIRA)
+213 Joachim Breitsprecher (JIRA)
+214 Pedro I. Sanchez
+215 J.Pietschmann
+216 Unico Hommes
+217 Reinhard Poetz
+218 Tom HANAX (JIRA)
+219 Ricardo Beltr¨¢n
+220 iss...@cocoondev.org
+221 Andreas Hartmann
+222 Juan Jose Pablos (JIRA)
+223 Shaun Evans
+224 Paul Glezen
+225 Sander Temme
+226 Torsten Schlabach
+227 Prof. Dr. P. Hauber
+228 Sean Wheller
+229 Sten Aksel Heien
+230 scott hutinger
+231 Jason End
+232 Jeff Levitt
+233 Dave Brondsema
+234 Arik Kfir
+235 Jonathan Sidarous
+236 Nick Tidmarsh
+237 Brett Presnell
+238 Joao Araujo
+239 Dirk-Willem van Gulik
+240 Dick Hollenbeck
+241 Florian G. Haas
+242 Marcus Crafter
+243 Upayavira
+244 Philip Mark Donaghy
+245 The Web Maestro
+246 Glen Tulukin
+247 Evrim ULU
+248 Scherler, Thorsten
+249 SuperBonBon
+250 Charles Palmer
+251 thorsten
+252 Arturo Vazquez
+253 Stephen Schaub
+254 J?rg Woost
+255 Stefano Mancarella
+256 Vadim Gritsenko
+257 Rodent of Unusual Size
+258 Noel J. Bergman
+259 Justin Erenkrantz
+260 Fabio Rinaldi
+261 Hare, Michael
+262 Lorenz Froihofer
+263 Jan.Mate...@rzf.fin-nrw.de
+264 Eirik Bj?rsn?s
+265 Andrew Savory
+266 Fraser Bennett
+267 Robert W. George
+268 Boris Kroeger
+269 Adam R. B. Jack
+270 Nick Chalko
+271 Manjeet S
+272 Ugo Cei
+273 bflow...@lexmark.com
+274 Jefft
+275 Jason Lane
+276 Allen Lee
+277 m m
+278 nicola...@apache.org
+279 brond...@apache.org
+280 Fabrice Bacchella
+281 che...@apache.org
+282 Moshe Yudkowsky
+283 Brian S. Hayes
+284 Florian Haas
+285 cross...@apache.org
+286 Philippe Vanpeperstraete
+287 Pier Fumagalli
+288 Carlos Araya
+289 superbon...@bluemail.ch
+290 Stefano Mazzocchi
+291 Stephan E. Schlierf
+292 E.L.
+293 Michael Davey
+294 Brendan Humphreys
+295 Susan Potter
+296 Lechique
+297 Ivan Kurmanov
+298 christ...@apache.org
+299 che...@che-che.com
+300 anto...@apache.org
+301 Greg Stein
+302 rgard...@apache.org
+303 Nicolai Mainiero1
+304 Johan Kok
+305 Marshall Roch
+306 Nicolas Maisonneuve
+307 Rob.Ex...@equifax.com
+308 Fred J. Bourgeois III
+309 Paul Smith
+310 Juan Jose
+311 Stephan Michels
+312 Justus H. Piater
+313 Daniel Smith
+314 Conal Tuohy
+315 Autumn Cuellar
+316 Arnaud SAHUGUET
+317 Rob Exley
+318 Peter Meggitt
+319 un...@apache.org
+320 Gerry Ibarra
+321 Peter Hargreaves
+322 Robert Koberg
+323 phid...@mindspring.com
+324 Howard M. Lewis Ship
+325 Dimitri Pissarenko
+326 BURGHARD Eric
+327 Sebastian Bergmann
+328 Johan Andries
+329 Glen Stampoultzis
+330 Carmona Perez, David
+331 k...@kanaputs.org
+332 Brian Enigma
+333 Richard Cao
+334 Sergey Missan
+335 Bryan
+336 jjdscss
+337 Leo
+338 Oliver Vecernik
+339 Christian Geisert
+340 Roger Hyam
+341 Cameron Shorter
+342 ycdtosa
+343 ycd
+344 Neil Tait
+345 rccar...@lexmark.com
+346 Gary L Hoffman
+347 Erik Ackerman
+348 Joshua Lynch
+349 Karel Vervaeke
+350 Karel Vervaeke
+351 Clifton Ingram
+352 Beuter Bjoern (DS/ESP2) *
+353 tom.klaa...@pandora.be
+354 Robert P. J. Day
+355 Tom Klaasen
+356 Tony Collen
+357 je...@apache.org
+358 Eric BURGHARD
+359 Stephan Schlierf
+360 Don Brown
+361 BERGER Arnaud
+362 Konstantin Piroumian
+363 Tetsuya Kitahata
+364 Ramon Prades
+365 Victor Mote
+366 Alex Sansom
+367 Timothy Fisher
+368 Flavio Tordini
+369 g4
+370 Berin Loritsch
+371 David Remy
+372 Adam Jack
+373 Sander Striker
+374 Glen Mazza
+375 Sikha, Naresh
+376 stefan.bernem...@degussa.com
+377 Ted Leung
+378 Andrew C. Oliver
+379 Todd Chambery
+380 Jason Kary
+381 k apsul
+382 Roger Ackroyd
+383 Joerg Heinicke
+384 Marc Portier
+385 Stefan Seifert
+386 butle...@fsmail.net
+387 Danny Bols
+388 mjb
+389 Niklas Koponen
+390 DeSmet_Ri...@emc.com
+391 Corneanu Dan
+392 Christoph Lofi
+393 Farr, Aaron
+394 d...@multitask.com.au
+395 Ilja Heitlager
+396 Giacomo Pati
+397 Oliver Alth
+398 beatbros
+399 MAISONOBE Luc
+400 Ram¨®n Prades
+401 Filip Defoort
+402 Sheldon Street
+403 yachting heritage
+404 Petri Salmi
+405 Dirk Drazenovic
+406 Schlierf, Stephan
+407 Mikael Sitruk
+408 Garrett Steed
+409 Ramsay Domloge
+410 Frederic
+411 Jan Bromberger
+412 Oxley, David
+413 John Morrison
+414 Luca Morandini
+415 Saremba Andreas
+416 Nathaniel G. Auvil
+417 Peng, Meimin
+418 Richard Bondi
+419 David Leangen
+420 Stefaan Nachtergaele
+421 Stefaan Nachtergaele
+422 Forrest Li
+423 Simon Collins
+424 Juan Antonio Romero
+425 Bert Van Kets
+426 Michael Gerzabek
+427 Christian Egli
+428 Ines Robbers
+429 Mark Montague
+430 Bojan Mihelac
+431 Vincent Hardy
+432 Vincent Hardy
+433 Sam Ruby
+434 stev...@apache.org
+435 G...@icarus.apache.org
+436 Nicolas Wettstein
+437 Peter B. West
+438 kho braun
+439 admin
+440 Sergio Ramazzina
+441 Mark Vovsi
+442 Gianugo Rabellino
+443 Markus Wolf
+444 serge012...@provide.net
+445 Avik Sengupta
+446 iasandcb
+447 Karel Wouters
+448 j..@printsavant.com
+449 Tim Myers
+450 Georg.Ragal...@nse.de
+451 Miles Elam
+452 Ritchie Young
+453 Cathy Zura
+454 Joshua P. Dady
+455 Bernhard Brandmair
+456 Morrison, John
+457 Ed Steenhoek
+458 kavitha sravanthi
+459 Matt Jones
+460 Alexander Smirnoff
+461 Keiron Liddle
+462 Joerg Pietschmann
+463 Bernhard Huber
+464 Ivelin Ivanov
+465 Peter Donald
+466 Ufuk ?oban
+467 IAS
+468 Christian Haul
+469 volker.fr...@basf-ag.de
+470 ro...@tiscali.be
+471 Ian Blizard
+472 Henri Yandell
+473 Carles Canellas
+474 Omar Belhaj
+475 Robb Bloomfield
+476 Frans Morre
+477 Piroumian Konstantin
+478 fallen
+479 Michael Edge
+480 grega...@apache.org
+481 Brian Behlendorf
+482 Eric Hartmann
+483 Vladimir R. Bossicard
+484 Vladimir R. Bossicard
+485 m..@apache.org
+486 Marcelo F. Ochoa
+487 kpiroum...@apache.org
+488 Philipp Schmidt
+489 Philipp Schmidt
+490 Ian Atkin
+491 Theodore W. Leung
+492 Kevin O'Neill
+493 Ruedi Anneler
+494 Diana Shannon
+495 b...@apache.org
+496 Brian Topping
+497 Craeg K Strong
+498 Carlos
+499 stef...@apache.org
+500 Ruedi Anneler - A-R-T GmbH, Switzerland
+501 Ruedi Anneler - A-R-T GmbH, Switzerland
+502 Robert Marcano
+503 Pierre.Da...@cec.eu.int
+504 c-...@gmx.de
+505 Ovidiu Predescu
+506 bob phillips
+507 Chris Bentley
+508 Christopher Bentley
+509 Reinhard Potz
+510 alex
+511 Christopher Lenz
+512 Piroumian, Konstantin
+513 Kal Ahmed
+514 morr...@apache.org
+515 Bart Guijt

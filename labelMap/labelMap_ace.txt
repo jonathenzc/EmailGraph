@@ -1,0 +1,109 @@
+0 Apache Jenkins Server
+1 Niclas Hedhman
+2 Paul Bakker
+3 Marcel Offermans
+4 Bram de Kruijff
+5 Jean-Baptiste Onofr¨¦
+6 Jan Willem Janssen
+7 Sibla Wilfried
+8 Xu Zhidao
+9 Wayne Nelson
+10 Damien Martin-Guillerez
+11 Carsten Ziegeler
+12 Bertrand Delacretaz
+13 christian.vo...@cvogel.com
+14 Christian Vogel
+15 Angelo van der Sijpt
+16 Karl Pauls
+17 Taranbir Singh - ERS, HCL Tech
+18 Venkateshwarlu D
+19 Tang Yong
+20 John Dunlap
+21 Felix Meschberger
+22 Rafa? Krzewski
+23 J?rg Panzer
+24 Toni Menzel
+25 janze...@email.cz
+26 Brett Porter
+27 Marvin
+28 Andreas Pieber
+29 Paul Bakker (Created) (JIRA)
+30 Paul Bakker (Commented) (JIRA)
+31 Marcel Offermans (Assigned) (JIRA)
+32 Marcel Offermans (Resolved) (JIRA)
+33 mindware (Commented) (JIRA)
+34 Marcel Offermans (Commented) (JIRA)
+35 mindware (Resolved) (JIRA)
+36 P?emek Brada
+37 mindware (Created) (JIRA)
+38 Martijn van Berkum
+39 Jean-Baptiste Onofr¨¦ (Created) (JIRA)
+40 Jeremias Maerki
+41 Denis Koelewijn (Created) (JIRA)
+42 Denis Koelewijn (Commented) (JIRA)
+43 Denis Koelewijn (Updated) (JIRA)
+44 Bram de Kruijff (Commented) (JIRA)
+45 sebb
+46 j.@nanthrax.net
+47 Benson Margulies
+48 Guillaume Nodet
+49 Denis Koelewijn
+50 Mattmann, Chris A (388J)
+51 Brian Topping
+52 Clement Escoffier
+53 mvangeert...@comcast.net
+54 Hadrian Zbarcea
+55 Christian
+56 ant elder
+57 Chris Brind
+58 Adrian Cole
+59 Jeremias Maerki (Created) (JIRA)
+60 Adrian Cole (Commented) (JIRA)
+61 Jean-Baptiste Onofr¨¦ (Commented) (JIRA)
+62 Marcel Offermans (Reopened) (JIRA)
+63 Xander Uiterlinden (Updated) (JIRA)
+64 Marcel Offermans (Created) (JIRA)
+65 Jeremias Maerki (Commented) (JIRA)
+66 Jean-Baptiste Onofr¨¦ (Assigned) (JIRA)
+67 Toni Menzel (Commented) (JIRA)
+68 Marcel Offermans (JIRA)
+69 Karl Pauls (JIRA)
+70 Roger Mbiama (JIRA)
+71 Roger Mbiama (JIRA)
+72 Bram de Kruijff (JIRA)
+73 Jean-Baptiste Onofr¨¦ (JIRA)
+74 Irwin, Wayne
+75 john.dun...@exceter.com
+76 Angelo van der Sijpt (JIRA)
+77 Hadrian Zbarcea (JIRA)
+78 clement escoffier
+79 Jason Rose (JIRA)
+80 no-re...@apache.org
+81 Dan Tran
+82 Geert Schuring (JIRA)
+83 Premek Brada
+84 Geert Schuring
+85 Michael Duffy
+86 Dennis Crissman
+87 Derek Baum (JIRA)
+88 Steve
+89 Steven Siebert
+90 Hiranya Jayathilaka
+91 Stephen Brady
+92 Bruce Snyder
+93 Steve Siebert (JIRA)
+94 zoe slattery
+95 Christopher Brind
+96 Toni Menzel (JIRA)
+97 Mike Haney
+98 Crissman, Dennis
+99 Mari
+100 Robert Fico (JIRA)
+101 Zilvinas Kybartas (JIRA)
+102 Jean-Baptiste Onofre
+103 John E. Conlon
+104 Angelo vd Sijpt
+105 Brian Topping (JIRA)
+106 devangbchudasma (JIRA)
+107 Filippo Diotalevi
+108 Felix Meschberger (JIRA)

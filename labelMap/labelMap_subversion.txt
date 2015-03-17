@@ -1,0 +1,471 @@
+0 Alexey Neyman
+1 Sean Leonard
+2 James McCoy
+3 Philip Martin
+4 Branko ?ibej
+5 Stefan Fuhrmann
+6 Ivan Zhakov
+7 Daniel Shahaf
+8 Greg Stein
+9 Ben Reser
+10 Mark Phippard
+11 Johan Corveleyn
+12 Stefan Sperling
+13 Evgeny Kotkov
+14 Andreas Stieger
+15 Subversion Translation Status
+16 Justin Erenkrantz
+17 Nico Kadel-Garcia
+18 Ryan Schmidt
+19 Barry Scott
+20 Stuart Rossiter
+21 Vladimir Berezniker
+22 Eric S. Raymond
+23 Matthias Ludwig
+24 Schmidt, Michael
+25 Julian Foad
+26 Fitzpatrick, Ben
+27 DARKGuy .
+28 Neels Hofmeyr
+29 anatoly techtonik
+30 Mohsin
+31 Martin Furter
+32 Alex Siyanko
+33 Konstantin Kolinko
+34 Lieven Govaerts
+35 C. Michael Pilato
+36 Navrotskiy Artem
+37 Artem V. Navrotskiy
+38 Conrad Rad
+39 Conrad Rad
+40 Bert Huijben
+41 Kim Gr?sman
+42 Mohsin Abbas
+43 Mohsin Abbas
+44 Michael Uray
+45 Alan Barrett
+46 Paul Burba
+47 Alan Modra
+48 masaru tsuchiyama
+49 Masaru Tsuchiyama
+50 Stefan Kueng
+51 Peter Galcik
+52 Mark Eichin
+53 Gabriela Gibson
+54 Markus Schaber
+55 David Radcliffe
+56 Peter Samuelson
+57 Matthias Gerstner
+58 Thomas ?kesson
+59 Lior
+60 Tony Stevenson
+61 Fredrik Fornwall
+62 Mattias Engdeg?rd
+63 Carlos Mart¨ªn Nieto
+64 Matt Phipps
+65 Dongsheng Song
+66 Eric Lemes
+67 Eric Lemes
+68 ne...@apache.org
+69 Sergey Raevskiy
+70 Vincent Lefevre
+71 Alagazam.net Subversion
+72 Guido Wischrop
+73 'Daniel Shahaf'
+74 Mayuresh Rajwadkar
+75 Post Master
+76 Dmitry Bakshaev
+77 Michael Schierl
+78 Matthias Buecher / Germany
+79 Storm-Olsen, Marius
+80 Jean-Christophe Gillet
+81 ËÎ¶¬Éú
+82 Dean A Starr
+83 Dennis Hendriks
+84 Leo Davis
+85 Arkadiusz Mi?kiewicz
+86 'Stefan Sperling'
+87 Arfrever Frehtes Taifersar Arahesis
+88 L¨¹bbe TortoiseSVN
+89 Gareth McCaughan
+90 Jason Kresowaty
+91 rvaedex23
+92 Fergus Slorach
+93 Peter Suter
+94 Paul Hammant
+95 Karl Fogel
+96 Anton Yuzhaninov
+97 Phil Cornelius
+98 Philip Cornelius
+99 Alexander L¨¹ders
+100 Marc Strapetz
+101 Matt Parks
+102 Dmitri Moore
+103 vita...@yourcmc.ru
+104 Andr¨¦ Malo
+105 Doug Robinson
+106 Hyrum K Wright
+107 Stephane Chazelas
+108 Veres Lajos
+109 §¡§ß§ä§à§ß §¢§â§Ö§å§ã§à§Ó
+110 Mojca Miklavec
+111 Kuno Meyer
+112 r.mbi...@angosso.net
+113 William A. Rowe Jr.
+114 Daniel Lescohier
+115 Eric Lubin
+116 Peter Harris
+117 Roman Kagan
+118 Roderich Schupp
+119 joysboy
+120 Dirk
+121 Blair Zajac
+122 Sergei Riaguzov
+123 Ryan Mulder
+124 Fredrik Orderud
+125 Cathy Fitzpatrick
+126 Cathy Fitzpatrick
+127 adam
+128 Ben Brown
+129 Lorenz
+130 Stefan K¨¹ng
+131 Yuval E.
+132 roderich.sch...@gmail.com
+133 b...@qqmail.nl
+134 sara5212
+135 BIRD Neil
+136 Patrick Sawyer
+137 Mark Moe
+138 Dmitry Pavlenko
+139 Mihai Danila
+140 Bob Archer
+141 QXO
+142 Curt Sellmer
+143 Bill Tutt
+144 Christian Steineck
+145 Graeme Hodgson
+146 Sjon Hortensius
+147 Semyon Vadishev
+148 James K. Lowden
+149 Alfred von Campe
+150 Alexander Haley
+151 Mario Brandt
+152 Mario Brandt
+153 Fabien COELHO
+154 Travis Brown
+155 John Maher
+156 NORAV (Mark M.)
+157 Bolstridge, Andrew (Secure information solutions)
+158 Victor Sudakov
+159 Prabhu
+160 §£§Ñ§â§æ§à§Ý§à§Þ§Ö§Ö§Ó §ª§Ô§à§â§î
+161 Akanksha Dayal
+162 Ashish SHUKLA
+163 David Schweikert
+164 ÁõÐÂÐÇ
+165 §£§Ñ§â§æ§à§Ý§à§Þ§Ö§Ö§Ó§ª§Ô§à§â§î
+166 Joseph Schaefer
+167 Tomasz Poradowski
+168 Erik Huelsmann
+169 Eitan Adler
+170 Alexander A. Boyko
+171 Anatoly Zapadinsky
+172 Bastiaan Veelo
+173 Scott Hartman
+174 Schuh, Michael (ARC-AA)
+175 Tobias Bading
+176 Peter Weinert
+177 Peter Weinert
+178 Joe Swatosh
+179 Danil Shopyrin
+180 Prabhu Gnana Sundar
+181 Andy Singleton
+182 James Hanley
+183 Joe Orton
+184 Ruben Stein
+185 Michael Schlottke
+186 George Schizas
+187 NormW
+188 Arwin Arni
+189 Bart van Oerle
+190 Vitaly
+191 Crayon
+192 Chris T.
+193 kmra...@rockwellcollins.com
+194 Rainer Jung
+195 Trent Nelson
+196 Alexander Thomas
+197 janI
+198 Antoine Levy Lambert
+199 Rice, Kevin (Contractor)
+200 Brad Waldon
+201 Bob Cardillo
+202 Pavel Lyalyakin
+203 Ennio
+204 Friedrich.Brunzema
+205 Friedrich Brunzema
+206 Martin Bieder
+207 Shivani Poddar
+208 wujiansheng
+209 Mark J Cox
+210 Bo Chen
+211 Geoff Rowell
+212 jinfroster
+213 Florin Avram
+214 Christoph Schulz
+215 Alfred Perlstein
+216 Charles Duffy
+217 BRM
+218 Robert Wruck
+219 vijay
+220 Magnus Thor Torfason
+221 Chen Yang
+222 Pallavi Jha
+223 mukteshpatel
+224 Simon Large
+225 Gavin Baumanis
+226 Janos Gyerik
+227 Hideki IWAMOTO
+228 carol schaef
+229 Sergei Antonov
+230 Sergei Antonov
+231 Geoff Swift
+232 Talden
+233 Marshall Schor
+234 Joe Schaefer
+235 Ferenc Kovacs
+236 Danny.McKin...@sungard.com
+237 Anja Skrba
+238 Peelman, Nick
+239 olli hauer
+240 Abhishek Singh
+241 Chetna Gupta
+242 Celso Tadao Suzuki
+243 Stefan Reich?r
+244 Ziemowit Laski
+245 Miriam Hochwald
+246 Philip Herron
+247 Miha Vitorovic
+248 Andre Colomb
+249 David Moon
+250 Timothy Graupmann
+251 Timothy Graupmann
+252 Lisa L
+253 Satabdi Das
+254 Judy Okite
+255 Hyrum Wright
+256 Robert Turner
+257 Erez Zarum
+258 Lekensteyn
+259 Dana Benson
+260 Eduard.Perel...@ey.com
+261 Neels J Hofmeyr
+262 Heather Grewar
+263 mpchlets
+264 Michael Chletsos
+265 Mat Booth
+266 Igor Gali?
+267 ninjahimself
+268 Gianluigi
+269 sebb
+270 §²§à§Þ§Ñ§ß §¥§à§ß§é§Ö§ß§Ü§à
+271 Kate F
+272 Raphael Kubo da Costa
+273 Janek
+274 §±§Ö§â§ê§Ú§ß §À§â§Ú§Û §±§Ö§ä§â§à§Ó§Ú§é
+275 cz02
+276 Jakub Wilk
+277 Karol Szkudlarek
+278 Duncan Booth
+279 Sean Farrell
+280 Akiyoshi
+281 Walter Klust
+282 Maciej Jaros
+283 Josh Triplett
+284 Neil Bird
+285 Cory J. Finger
+286 finge...@ccs.neu.edu
+287 Vasily Tunegov
+288 Andreas Krey
+289 Ethan Cane
+290 Jeff Trawick
+291 Cedric JP. Brasey
+292 Bostjan Skufca
+293 Greg Hudson
+294 Koji Nakamaru
+295 Bob Chapman
+296 George Gugulea
+297 Andrey Paramonov
+298 Robert Muir
+299 Alexander Kitaev
+300 Kamesh Jayachandran
+301 Cristian Amarie
+302 ???2 [duinggul]
+303 Dar¨ªo B
+304 Daniel Widenfalk
+305 Daniel Widenfalk
+306 Carlos Andrade
+307 Ashod Nakashian
+308 Jeyanthan
+309 Daniel Kl¨ªma
+310 Roghair, Frank
+311 Stephen Butler
+312 s..@feb17.org
+313 Joern Mueller
+314 donal...@i-55.com
+315 Moe, Mark
+316 michael_rytt...@agilent.com
+317 Hans Lambermont
+318 Kenneth Miles
+319 Ken Miles
+320 Ben Smith-Mannschott
+321 Adam D. Walling
+322 asdfasd asdfasdf
+323 Andreas Mohr
+324 Travis
+325 Dustin Lang
+326 EasySVN
+327 Mark Thomas
+328 William A Rowe Jr
+329 Marius Bauer
+330 Benjamin Lee
+331 Git at Apache
+332 Filip Maj
+333 Gavin McDonald
+334 Jukka Zitting
+335 Paul Davis
+336 Pedro Giffuni
+337 Mark Therieau
+338 Rick Yorgason
+339 Taylor Lookabaugh
+340 Andrea Antonio Maleci
+341 DanielShahaf
+342 Ravish Nayak S. R.
+343 Humm, Markus
+344 Ruhe Julian
+345 Yunal Li
+346 rupert.thurner
+347 roderich.sch...@googlemail.com
+348 Tim Kuehn
+349 Rares Ispas
+350 Martin Zibricky
+351 daz
+352 Julien Cugni¨¨re
+353 Jim Paris
+354 Josef RIESENEDER
+355 Ramkumar Ramachandra
+356 Jason Wong
+357 Justin Johnson
+358 Matthew J Fletcher
+359 S¨¦rgio Basto
+360 Kalle Olavi Niemitalo
+361 Mike Dixon
+362 Berin Babcock-McConnell
+363 darizo...@gmail.com
+364 Michael McCandless
+365 Hiroaki Nakamura
+366 Cory Finger
+367 Bojan Smojver
+368 Matthijs Kooijman
+369 TheBlueSky .Net
+370 Nick Hengeveld
+371 Simon Butler
+372 Fuhrmann Stefan (ETAS/ESA1)
+373 Alexey 0 Moudrick
+374 Jens Peters
+375 Michael Felt
+376 Mark Mielke
+377 Jonathan Nieder
+378 Pawe? Sikora
+379 Sebastian Esponda
+380 Manfred Klug
+381 Richard Mayhew
+382 Vincent Batts
+383 Steven R. Loomis
+384 Niko Wilbert
+385 Garret Wilson
+386 Karl Heinz Marbaise
+387 Karl Heinz Marbaise
+388 schrott...@gmx.de
+389 Justin Finkelstein
+390 Shane Turner
+391 Steinar Bang
+392 Petyovsk? Petr
+393 Greg Bell
+394 rupert THURNER
+395 Philip M. Gollucci
+396 schame...@spinor.com
+397 Elias Pipping
+398 Matthijs Dolsma
+399 Stefano Crosta
+400 Krigsman Kristian
+401 Daniel N?slund
+402 Bob Jenkins
+403 Echlin, Jamie
+404 Gariepy, Kate
+405 Michael Diers
+406 Fabio A. Miranda
+407 Schmied, Fabian
+408 Dmitry Batrak
+409 Jesse Thompson
+410 Peter Kona
+411 appzer0
+412 Schott Marco
+413 Martin Buck
+414 Nothing to see here, move along folks
+415 Senthil Kumaran S
+416 Semen Prikhodko
+417 Toby Peterson
+418 Andrew McClure
+419 Dan Ports
+420 Philipp Kloke
+421 Patrick Quirk
+422 http://183680.bikeshed.com/
+423 Fabian Angelstorf
+424 Jurij ?akardi?
+425 H?lzl, Dominik
+426 S?ren Thing Andersen
+427 Kiran Tamada
+428 Tom¨¢? Bihary
+429 Joel Low
+430 Milian Wolff
+431 Shouts, Chris (Associate)
+432 Ayden Young
+433 Ignacio Manzano
+434 David Darj
+435 ???
+436 Mathias Weinert
+437 Grigory Petrov
+438 Jeffrey Pierson
+439 Dave Huang
+440 Scott Palmer
+441 R¨¹diger Meier
+442 Steven Wu
+443 Winston Smith
+444 Adrian Smith
+445 Kyle Leber
+446 ACT-Support Department
+447 Marcello Henrique
+448 Hal Finkel
+449 Jan Peters
+450 Tom Widmer
+451 Douglas Mencken
+452 Folker Schamel
+453 Ketting, Michael
+454 Till Maas
+455 David Chapman
+456 Patrick Mayweg
+457 Nicklas Norling
+458 David Wallace
+459 Alan Wood
+460 Martin Kutter
+461 Kevin Locke
+462 1983-01...@gmx.net
+463 Beatriz Giacobe
+464 Bolstridge, Andrew
+465 Noorul Islam K M
+466 St¨¦phane Gaudreault
+467 noorul Islam. Kamal Malmiyoda
+468 James Mountifield
+469 Nick Crossley
+470 LIL. - Lilienthal, Benjamin

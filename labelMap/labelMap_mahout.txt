@@ -1,0 +1,1134 @@
+0 ASF GitHub Bot (JIRA)
+1 ASF GitHub Bot (JIRA)
+2 Hudson (JIRA)
+3 Gokhan Capan (JIRA)
+4 Dmitriy Lyubimov
+5 Pat Ferrel
+6 Andrew Palumbo
+7 Gokhan Capan
+8 Ted Dunning
+9 Suneel Marthi
+10 Suneel Marthi (JIRA)
+11 Apache Jenkins Server
+12 Srinivasarao Daruna (JIRA)
+13 Suminda Dharmasena (JIRA)
+14 Oleg Nitz (JIRA)
+15 jay vyas (JIRA)
+16 Brian Salgado (JIRA)
+17 Bhavdeep Sethi (JIRA)
+18 thejas prasad
+19 Aamir Khan
+20 Andrew Palumbo (JIRA)
+21 Thejas Prasad (JIRA)
+22 Pat Ferrel (JIRA)
+23 Burke Webster (JIRA)
+24 zuozhibin (JIRA)
+25 Dmitriy Lyubimov (JIRA)
+26 Vibhanshu Prasad
+27 Srikanth Shankara Rao
+28 uday kiran
+29 Íõ½¨¹ú
+30 Tawfiq Hasanin (JIRA)
+31 Tim Groeneveld (JIRA)
+32 Yash Sharma
+33 peng
+34 Aditya Kashyap Singh (JIRA)
+35 Jesse Daniels (JIRA)
+36 Jesse Daniels (JIRA)
+37 Vibhanshu Prasad (JIRA)
+38 Nico Scherer (JIRA)
+39 Srinivas Chamarthi
+40 Mahesh Balija
+41 Saikat Kanjilal
+42 Frank Scholten
+43 ap.dev
+44 Sabin Thomas (JIRA)
+45 Tom Lampert (JIRA)
+46 Guo Ruijing (JIRA)
+47 Tony Stevenson
+48 Saikat Kanjilal (JIRA)
+49 Shannon Quinn (JIRA)
+50 Ankit Sharma
+51 Haohui Mai (JIRA)
+52 Anand Avati
+53 Shannon Quinn
+54 Murariu Fabian
+55 Thejas Prasad
+56 Anthony Daniell (JIRA)
+57 Ted Dunning (JIRA)
+58 Anand Avati (JIRA)
+59 Harish Kayarohanam (JIRA)
+60 Frank Rosner (JIRA)
+61 Sebb (JIRA)
+62 Nagamallikarjuna (JIRA)
+63 Leonardo Fernandez Sanchez (JIRA)
+64 Sean Owen (JIRA)
+65 Sebastian Schelter
+66 Peng Cheng
+67 Andrew Musselman
+68 Frank Scholten (JIRA)
+69 Thurman Sanders (JIRA)
+70 Andrew Musselman (JIRA)
+71 Thurman Sanders
+72 Frank Rosner
+73 Wei Zhang
+74 Till Rohrmann
+75 Haishou Ma (JIRA)
+76 Matteo (JIRA)
+77 Xiaomeng Huang (JIRA)
+78 Alex Ott (JIRA)
+79 jaehoon ko (JIRA)
+80 jaehoon ko (JIRA)
+81 Wenjun Yang (JIRA)
+82 Christoph Viebig (JIRA)
+83 Christoph Viebig (JIRA)
+84 AnilKumar B
+85 Felix Sch¨¹ler (JIRA)
+86 Bastian K?cher (JIRA)
+87 Yexi Jiang
+88 Yexi Jiang (JIRA)
+89 Raffael Wulff (JIRA)
+90 Nick Martin (JIRA)
+91 Markus Holzemer (JIRA)
+92 Wolfgang Buchner (JIRA)
+93 Sebastian Schelter (JIRA)
+94 Maciej Kula (JIRA)
+95 Nishkam Ravi (JIRA)
+96 David Noel
+97 Till Rohrmann (JIRA)
+98 Stevo Slavic (JIRA)
+99 Yash Sharma (JIRA)
+100 Chris Baker
+101 Sahil Sharma
+102 matteo poletti
+103 Felix Sch¨¹ler
+104 Sahil Sharma (JIRA)
+105 Timo Walther (JIRA)
+106 Andy Twigg
+107 Sean Owen
+108 Nick Pentreath
+109 prakash kumar (JIRA)
+110 Venkat Ranganathan (JIRA)
+111 Alexander Ostrikov (JIRA)
+112 Cliff Click
+113 dodi hakim
+114 Anonymous (JIRA)
+115 Dodi Hakim (JIRA)
+116 Grant Ingersoll
+117 jian wang (JIRA)
+118 Cliff Click (JIRA)
+119 larryhu (JIRA)
+120 Dodi Hakim
+121 Dodi Hakim
+122 Adarsh Khalique (JIRA)
+123 Adarsh Khalique (JIRA)
+124 tuxdna
+125 Richard Scharrer (JIRA)
+126 Andy Schlaikjer (JIRA)
+127 Paul Marret (JIRA)
+128 Stevo Slavi?
+129 Terry Blankers (JIRA)
+130 Sergey (JIRA)
+131 Sergey (JIRA)
+132 Drew Farris (JIRA)
+133 Manoj Awasthi (JIRA)
+134 Karol Grzegorczyk
+135 Arunav Sanyal
+136 Karol Grzegorczyk (JIRA)
+137 Karol Grzegorczyk (JIRA)
+138 Prabhat K Singh (JIRA)
+139 bandi shankar
+140 Ahmet Arslan
+141 Li Li
+142 SriSatish Ambati
+143 Reinis Vicups (JIRA)
+144 utku yaman (JIRA)
+145 Maciej Mazur
+146 Alex (JIRA)
+147 James Casaletto
+148 Pavan Kumar N (JIRA)
+149 Maxim Arap (JIRA)
+150 Saleem Ansari (JIRA)
+151 Saleem Ansari (JIRA)
+152 Sri
+153 Chandler Burgess
+154 Konstantin (JIRA)
+155 Aritra Chatterjee (JIRA)
+156 Sergey Svinarchuk (JIRA)
+157 mahmood (JIRA)
+158 Emin Aksehirli (JIRA)
+159 Andrew Psaltis (JIRA)
+160 Giorgio Zoppi
+161 Manoj Awasthi
+162 Irfan_Abbas
+163 Martin, Nick
+164 Amanpreet Singh Saini (JIRA)
+165 Harry Lang (JIRA)
+166 Mark Grover (JIRA)
+167 Ellen Friedman
+168 Robert A. Morris (JIRA)
+169 Mark Yakushev (JIRA)
+170 Jian Pan (JIRA)
+171 Giorgio Zoppi (JIRA)
+172 Konstantin Boudnik (JIRA)
+173 Ravi Mummulla
+174 Dawid Weiss (JIRA)
+175 Isabel Drost-Fromm (JIRA)
+176 Adam Ilardi (JIRA)
+177 Mihai Pitu (JIRA)
+178 Gmail
+179 Sam Bessalah
+180 yannis ats (JIRA)
+181 K¨¦vin Moulart (JIRA)
+182 Hardik Pandya
+183 Gaurav Misra
+184 Steve Cook (JIRA)
+185 Maciej Mazur (JIRA)
+186 Ken Williams (JIRA)
+187 Emaad Manzoor (JIRA)
+188 Aliaksei Litouka
+189 Aliaksei Litouka (JIRA)
+190 Isabel Drost-Fromm
+191 Nilesh Chakraborty (JIRA)
+192 Gouri Sankar Majumder
+193 Chameera Wijebandara (JIRA)
+194 Tharindu Rusira (JIRA)
+195 Amir Rahnama (JIRA)
+196 Manuel Blechschmidt (JIRA)
+197 Sergey Svinarchuk
+198 Johannes Schulte (JIRA)
+199 Chameera Wijebandara
+200 Tharindu Rusira
+201 Nicolas Embleton
+202 Roger Jonsson
+203 Sotiris Salloumis (JIRA)
+204 i...@eprice.gr
+205 Sotiris Salloumis
+206 Tony Barreca
+207 Oleksandr Olgashko
+208 Mike Sokolov (JIRA)
+209 mansur (JIRA)
+210 Diego Carrion (JIRA)
+211 isa...@apache.org
+212 spa...@gmail.com
+213 Sotiris
+214 Sandy Moens (JIRA)
+215 M. Emin Ak?ehirli
+216 Yan Burdett
+217 Andrew Psaltis
+218 Maruf Aytekin (JIRA)
+219 Roy Guo (JIRA)
+220 Yoonmin Nam (JIRA)
+221 Jai Kumar Singh (JIRA)
+222 Angad Singh (JIRA)
+223 Velmurugan (JIRA)
+224 ollagnier (JIRA)
+225 Dawid Weiss
+226 Ajay Bhat (JIRA)
+227 kaan can (JIRA)
+228 sam wu (JIRA)
+229 Zoraida Hidalgo Sanchez (JIRA)
+230 Johannes Schulte
+231 Dan Filimon
+232 Robin Anil
+233 Nick Martin
+234 Manuel Blechschmidt
+235 Piero Giacomelli
+236 Gouri Sankar Majumder (JIRA)
+237 Alex Piggott (JIRA)
+238 Nikolai Grinko (JIRA)
+239 Dave DeBarr (JIRA)
+240 Anusha R (JIRA)
+241 Chisomo Sakala (JIRA)
+242 Emin Aksehirli
+243 Amir Sedighi
+244 Fernando Santos (JIRA)
+245 Otis Gospodnetic (JIRA)
+246 Karthik Prakhya (JIRA)
+247 Antony Adopo
+248 §°§Ý§Ö§Ü§ã§Ñ§ß§Õ§â §°§Ý§î§Ô§Ñ§ê§Ü§à
+249 Neil Walkinshaw (JIRA)
+250 Niederberger Thomas (tnied...@hsr.ch)
+251 ?lvaro P¨¦rez Alarc¨®n (JIRA)
+252 irfan_abb...@ymail.com
+253 Thomas Darimont (JIRA)
+254 Michael Kleen
+255 Jason Lee (JIRA)
+256 Telvis Calhoun (JIRA)
+257 MMRAO NAIDU
+258 Ravi Mummulla (JIRA)
+259 surabhi pandey
+260 Sushanth Bhat(MT2012147)
+261 Hai To (JIRA)
+262 Chih-Hsien Wu
+263 Grant Ingersoll (JIRA)
+264 Peng Cheng (JIRA)
+265 alan krumholz (JIRA)
+266 Carl Clark (JIRA)
+267 Stewart Whiting (JIRA)
+268 Lee Dongjin (JIRA)
+269 Max Weule (JIRA)
+270 Mike Percy (JIRA)
+271 Mike Percy
+272 Mehant Baid
+273 mehant baid
+274 Telvis Calhoun Jr.
+275 Tom Griffin
+276 Timothy Mann
+277 Michael Kun Yang
+278 Alexander Senov (JIRA)
+279 Kun Yang (JIRA)
+280 Liz Merkhofer (JIRA)
+281 Nyoman Ribeka
+282 DB Tsai
+283 David Geiger (JIRA)
+284 Dan Filimon (JIRA)
+285 B Kersbergen
+286 B Lyon
+287 BFL (JIRA)
+288 Kun Yang
+289 Jake Mannix
+290 sirvan paraste
+291 ?ngel Mart¨ªnez Gonz¨¢lez
+292 DOYUNG YOON (JIRA)
+293 Erhan Bagdemir (JIRA)
+294 Claudio Reggiani (JIRA)
+295 Seyfullah Demir (JIRA)
+296 Maysam Yabandeh (JIRA)
+297 Abhishek Sharma
+298 Alexander Franchuk
+299 Alex Franchuk (JIRA)
+300 Kevin
+301 Paul Scott
+302 Iker Huerga (JIRA)
+303 Afsal Thaj (JIRA)
+304 Robin East
+305 Mimi Tam
+306 Robin Anil (JIRA)
+307 Jake Mannix (JIRA)
+308 Tom White (JIRA)
+309 Summer Lee (JIRA)
+310 Yiqun Hu (JIRA)
+311 zhang da (JIRA)
+312 Matt Molek (JIRA)
+313 Elmer Garduno (JIRA)
+314 Vineet Krishnan (JIRA)
+315 Paul R. Brown (JIRA)
+316 Dhruv Kumar (JIRA)
+317 vasu (JIRA)
+318 Rajan Gupta
+319 Samiran Raj Boro
+320 Andy Schlaikjer
+321 Bhaskar Mookerji
+322 Pradeep Pujari
+323 Abhinav M Kulkarni (JIRA)
+324 Abhinav M Kulkarni (JIRA)
+325 Abbas Gadhia (JIRA)
+326 Mike Davy (JIRA)
+327 Martin Illecker (JIRA)
+328 Isabel Drost (JIRA)
+329 Tarun Gulyani (JIRA)
+330 Yu Lee (JIRA)
+331 ½ªÒ³Ï£
+332 yu lee
+333 Zhivko Lazarov (JIRA)
+334 satyam sinha
+335 Robby
+336 saeed iqbal (JIRA)
+337 saeed iqbal (JIRA)
+338 Angel Martinez Gonzalez (JIRA)
+339 Sameer Sebastian (JIRA)
+340 Julian Ortega (JIRA)
+341 LEE YOONJAE (JIRA)
+342 Sophie Sperner (JIRA)
+343 Tom Marthaler (JIRA)
+344 Jakub (JIRA)
+345 MHPC 2013
+346 Jose Angel L¨®pez Otero (JIRA)
+347 Arun Avanathan
+348 Chenghao Liu (JIRA)
+349 Jack Pay (JIRA)
+350 Nkechi Nnadi
+351 Cunlu Zou (JIRA)
+352 Claudio Reggiani
+353 Rohit Haritash (JIRA)
+354 Ying Liao
+355 Otis Gospodnetic
+356 George Zografos
+357 Reinhard Denis Najogie (JIRA)
+358 Franklin Oliveira da Veiga (JIRA)
+359 Yexi (JIRA)
+360 Louis H¨¦nault
+361 Reto Matter
+362 Marty Kube
+363 Andy Twigg (JIRA)
+364 Meng Qinghan
+365 Adam Bozanich (JIRA)
+366 Hiroaki Kubota (JIRA)
+367 Jeff Eastman
+368 Benson Margulies
+369 ajit kumar (JIRA)
+370 Josh Wills
+371 Marty Kube (JIRA)
+372 Isabel Drost
+373 Ulrich St?rk
+374 Abhijith CHandraprabhu
+375 Hector Yee
+376 Dave Brosius (JIRA)
+377 Danny Busch
+378 Todd Johnson
+379 Ray
+380 Julien Nioche
+381 ey-chih chow (JIRA)
+382 ey-chih chow (JIRA)
+383 Benson Margulies (JIRA)
+384 Danny-Michael Busch
+385 Open Data Geek
+386 Daniel Longest
+387 Ceyhun Can ?lker (JIRA)
+388 Ying Liao (JIRA)
+389 Simon Willnauer
+390 Reza Fathzadeh (JIRA)
+391 deneche abdelhakim
+392 Lorenz Knies
+393 Raghu Venkat
+394 Praveen Sripati
+395 Vijaypal Singh
+396 Anuroopa George (JIRA)
+397 pranjul yadav
+398 Sara Del R¨ªo Garc¨ªa (JIRA)
+399 Qiuzhuang Lian (JIRA)
+400 Huned Lokhandwala (JIRA)
+401 Ofer Mendelevitch (JIRA)
+402 Shengchao Ding (JIRA)
+403 Florents Tselai
+404 Florents Tselai (JIRA)
+405 Samar Lotia (JIRA)
+406 Jimmy Xiang (JIRA)
+407 Jimmy Xiang (JIRA)
+408 Deneche A. Hakim (JIRA)
+409 Steve Chien
+410 Agnonchik (JIRA)
+411 Zeno Gantner (JIRA)
+412 Megan Galloway (JIRA)
+413 Andrew Janowczyk (JIRA)
+414 Simon Vocella
+415 Chris Birchall (JIRA)
+416 Chris Birchall (JIRA)
+417 Andrey Davydov (JIRA)
+418 sdfox (JIRA)
+419 Ken Nakagama
+420 Roderic W Paulk
+421 Vikram Dixit K (JIRA)
+422 Han Hui Wen (JIRA)
+423 Han Hui Wen (JIRA)
+424 Paritosh Ranjan (JIRA)
+425 Lance Norskog (JIRA)
+426 Sami Nieminen (JIRA)
+427 David Arthur
+428 Gustavo Enrique Salazar Torres
+429 Julien Aym¨¦ (JIRA)
+430 Ferdy Galema (JIRA)
+431 Ðì¼Ò (JIRA)
+432 David Arthur (JIRA)
+433 Yann Moisan (JIRA)
+434 paritosh ranjan
+435 Raymond Melton
+436 Eric Springer (JIRA)
+437 Eric Springer (JIRA)
+438 Priyadarshan raj (JIRA)
+439 liutengfei (JIRA)
+440 Smita Wadhwa (JIRA)
+441 Daniel Xiaodan Zhou
+442 Lance Norskog
+443 p.shail...@iitg.ernet.in
+444 Ahmet Ylmaz
+445 Adam J. Baron (JIRA)
+446 Ashish Singh (JIRA)
+447 Ashish Singh (JIRA)
+448 Daniel Davies (JIRA)
+449 Timothy Mann (JIRA)
+450 Raimon Bosch (JIRA)
+451 Eduardo Gurgel Pinho (JIRA)
+452 kunapareddy chiranjeevi
+453 Tim Schultz (JIRA)
+454 Dror Mizrachi (JIRA)
+455 Jeff Eastman (JIRA)
+456 chir...@gmail.com
+457 Satendra Tiwari
+458 Pavel Tcholakov (JIRA)
+459 Paritosh Ranjan
+460 Smita Wadhwa
+461 XuHao (JIRA)
+462 Paul Hubenig (JIRA)
+463 Kakarala Rajendra
+464 Johannes Rauber (JIRA)
+465 zghaf
+466 Yan Liu (JIRA)
+467 Yan Liu (JIRA)
+468 Renaud Richardet (JIRA)
+469 Andrii Vozniuk (JIRA)
+470 Philip Nadeau (JIRA)
+471 Andrew Purtell (JIRA)
+472 Markus Paaso (JIRA)
+473 Markus Paaso (JIRA)
+474 sakurai (JIRA)
+475 Vijayakumar Ramdoss
+476 Jason Thomas
+477 armen donigian
+478 Sergey Bartunov (JIRA)
+479 Yan Zhang (JIRA)
+480 sai chowdary
+481 Ikumasa Mukai (JIRA)
+482 Leting Wu (JIRA)
+483 jayghost (JIRA)
+484 Bilung Lee (JIRA)
+485 Rahul
+486 Duraimurugan (JIRA)
+487 Videnova, Svetlana
+488 Joshi, Shrinivas
+489 Bhaskar Devireddy (JIRA)
+490 Masoud Moshref Javadi
+491 seth boyles (JIRA)
+492 DAN HELM
+493 k6.amruta
+494 jmm (JIRA)
+495 Elena Smirnova
+496 Dan Brickley (JIRA)
+497 Nabarun Sengupta (JIRA)
+498 Roman Shaposhnik
+499 tom pierce
+500 Drew Farris
+501 Dan Brickley
+502 yswa...@gmail.com
+503 Elham Hormozi
+504 Josh Patterson (JIRA)
+505 Oliver B. Fischer (JIRA)
+506 Stuart Smith (JIRA)
+507 Doug Mittendorf (JIRA)
+508 Gaurav Redkar (JIRA)
+509 Kris Jack
+510 chao yin
+511 Kris Jack (JIRA)
+512 pansophism (JIRA)
+513 Shrinivas Joshi (JIRA)
+514 tom pierce (JIRA)
+515 Mike Bria (JIRA)
+516 Todd Rose (JIRA)
+517 Michael Kazekin
+518 Edward J. Yoon
+519 Thomas Jungblut
+520 Suraj Menon
+521 Sol Eun (JIRA)
+522 nicolasdasca...@gmail.com
+523 John Leach (JIRA)
+524 Dat Tran
+525 Gene Leynes
+526 Roman Shaposhnik (JIRA)
+527 Tuygun Nishanbaev
+528 Timothy Potter (JIRA)
+529 Karthik Suryanarayanan (JIRA)
+530 Hudson (Commented) (JIRA)
+531 Paritosh Ranjan (Resolved) (JIRA)
+532 Saikat Kanjilal (Commented) (JIRA)
+533 Paritosh Ranjan (Commented) (JIRA)
+534 Paritosh Ranjan (Issue Comment Edited) (JIRA)
+535 jirapos...@reviews.apache.org (Commented) (JIRA)
+536 Roman Shaposhnik (Updated) (JIRA)
+537 jirapos...@reviews.apache.org (JIRA)
+538 Dan Beaulieu
+539 Federico Castanedo
+540 Gabor Makrai
+541 Grant Ingersoll (Created) (JIRA)
+542 ·ë³¬
+543 Paritosh Ranjan (Assigned) (JIRA)
+544 Paritosh Ranjan (Work started) (JIRA)
+545 Dev Lakhani (Created) (JIRA)
+546 Dev Lakhani (JIRA)
+547 Dirk Weissenborn
+548 Nick Grimshaw (JIRA)
+549 Tom Pierce
+550 tom pierce (Commented) (JIRA)
+551 Lance Norskog (Commented) (JIRA)
+552 Frank Scholten (Commented) (JIRA)
+553 Aditya Sarawgi
+554 Aleksei Udat?n?i (Commented) (JIRA)
+555 Sean Owen (Commented) (JIRA)
+556 Frank Scholten (Updated) (JIRA)
+557 Oliver B. Fischer
+558 tom pierce (Updated) (JIRA)
+559 Jeff Eastman (Commented) (JIRA)
+560 Bala Rajagopal (Commented) (JIRA)
+561 Dmitriy Lyubimov (Commented) (JIRA)
+562 Dmitriy Lyubimov (Updated) (JIRA)
+563 tom pierce (Created) (JIRA)
+564 Upayavira
+565 Jeff Eastman (Created) (JIRA)
+566 Matteo Riondato (Commented) (JIRA)
+567 Jake Mannix (Commented) (JIRA)
+568 ³ÂËÉ±ó
+569 Paritosh Ranjan (Updated) (JIRA)
+570 Isabel Drost (Commented) (JIRA)
+571 Hector Yee (Commented) (JIRA)
+572 Roman Shaposhnik (Created) (JIRA)
+573 Roman Shaposhnik (Commented) (JIRA)
+574 Dmitriy Lyubimov (Issue Comment Edited) (JIRA)
+575 Shannon Quinn (Commented) (JIRA)
+576 Christian Herta (Commented) (JIRA)
+577 Emmanouil Amolochitis (Commented) (JIRA)
+578 Emmanouil Amolochitis (Issue Comment Edited) (JIRA)
+579 Suneel Marthi (Commented) (JIRA)
+580 ehgjr (Commented) (JIRA)
+581 Dirk Wei?enborn (Created) (JIRA)
+582 Viktor Gal (Commented) (JIRA)
+583 Bruno Mah¨¦
+584 Davide Romito
+585 Stuart Smith (Created) (JIRA)
+586 Aleksei Udat?n?i
+587 Bruno Mah¨¦ (Created) (JIRA)
+588 Bruno Mah¨¦ (Commented) (JIRA)
+589 Shannon Quinn (Issue Comment Edited) (JIRA)
+590 Antonio Molins (Commented) (JIRA)
+591 Antonio Molins (Issue Comment Edited) (JIRA)
+592 Serafim Karparov (Commented) (JIRA)
+593 Grant Ingersoll (Commented) (JIRA)
+594 Nick Jordan
+595 Gaurav Redkar (Commented) (JIRA)
+596 Gaurav Redkar (Updated) (JIRA)
+597 Viktor Gal (Created) (JIRA)
+598 Wang Yue (Commented) (JIRA)
+599 Ikumasa Mukai (Commented) (JIRA)
+600 John Conwell
+601 Ioan Eugen Stan
+602 Han Hui Wen (Created) (JIRA)
+603 Sebastian Schelter (Commented) (JIRA)
+604 Han Hui Wen (Commented) (JIRA)
+605 Herta, Christian
+606 Atul Kulkarni
+607 IKumasa Mukai
+608 Christian Herta (Created) (JIRA)
+609 Viktor Gal
+610 Sean Owen (Updated) (JIRA)
+611 Nick Jordan (Commented) (JIRA)
+612 Dirk Wei?enborn (Commented) (JIRA)
+613 Dirk Wei?enborn (Updated) (JIRA)
+614 Christian Herta (Updated) (JIRA)
+615 Ted Dunning (Commented) (JIRA)
+616 Sean Owen (Resolved) (JIRA)
+617 Jeff Hammerbacher (Commented) (JIRA)
+618 Han Hui Wen (Updated) (JIRA)
+619 Joe Prasanna Kumar (Commented) (JIRA)
+620 Jeff Eastman (Assigned) (JIRA)
+621 Grant Ingersoll (Updated) (JIRA)
+622 Matteo Riondato (Updated) (JIRA)
+623 Nathan Halko
+624 Paritosh Ranjan (Created) (JIRA)
+625 Bala Rajagopal (Updated) (JIRA)
+626 Raphael Cendrillon (Commented) (JIRA)
+627 Dan Brickley (Commented) (JIRA)
+628 Dave Kor (Created) (JIRA)
+629 Suneel Marthi (Updated) (JIRA)
+630 Dave Kor (Commented) (JIRA)
+631 Joe Prasanna Kumar (Updated) (JIRA)
+632 Matteo Riondato (Issue Comment Edited) (JIRA)
+633 Raphael Cendrillon
+634 Christian Herta (Issue Comment Edited) (JIRA)
+635 Lance Norskog (Issue Comment Edited) (JIRA)
+636 Tharindu Mathew
+637 qiang xu (Commented) (JIRA)
+638 qiang xu (Issue Comment Edited) (JIRA)
+639 Aleksei Udat?n?i (Created) (JIRA)
+640 Grant Ingersoll (Assigned) (JIRA)
+641 Aleksei Udat?n?i (Issue Comment Edited) (JIRA)
+642 Andrei Savu
+643 Evan Pollan
+644 Suneel Marthi (Issue Comment Edited) (JIRA)
+645 Josh Patterson (Commented) (JIRA)
+646 Josh Patterson (Updated) (JIRA)
+647 Suneel Marthi (Created) (JIRA)
+648 Raphael Cendrillon (Updated) (JIRA)
+649 Raphael Cendrillon (Assigned) (JIRA)
+650 Keren Ouaknine
+651 Oliver Fischer
+652 rahul raghavendhra
+653 Grant Ingersoll (Resolved) (JIRA)
+654 Dhruv Kumar
+655 Dawid Weiss (Commented) (JIRA)
+656 Lance Norskog (Created) (JIRA)
+657 Deneche A. Hakim (Commented) (JIRA)
+658 Miroslav Pankov (Updated) (JIRA)
+659 Miroslav Pankov (Commented) (JIRA)
+660 Lance Norskog (Updated) (JIRA)
+661 Jeff Eastman (Updated) (JIRA)
+662 Jake Mannix (Updated) (JIRA)
+663 Jeff Eastman (Issue Comment Edited) (JIRA)
+664 Dirk Wei?enborn (Issue Comment Edited) (JIRA)
+665 Wang Yue (Updated) (JIRA)
+666 Celio Nogueira de Faria Jr
+667 Jeff Eastman (Reopened) (JIRA)
+668 Andrew Bayer (Commented) (JIRA)
+669 Josh Patterson
+670 Tamas Jambor (Commented) (JIRA)
+671 Tamas Jambor
+672 John Conwell (Commented) (JIRA)
+673 Enrique H Gascon Jr (Commented) (JIRA)
+674 Grant Ingersoll (Issue Comment Edited) (JIRA)
+675 Bryce Nyeggen (Commented) (JIRA)
+676 Danny R?schke (Created) (JIRA)
+677 Suneel Marthi (Assigned) (JIRA)
+678 Ioan Eugen Stan (Created) (JIRA)
+679 Tom White (Commented) (JIRA)
+680 Stuart Smith (Updated) (JIRA)
+681 chungongyu (Commented) (JIRA)
+682 chungongyu (Issue Comment Edited) (JIRA)
+683 Micha? B (Updated) (JIRA)
+684 Rares Vernica (Commented) (JIRA)
+685 Dmitriy Lyubimov (Assigned) (JIRA)
+686 Ikumasa Mukai (Updated) (JIRA)
+687 Takeshi NAKANO (Commented) (JIRA)
+688 Wangda Tan (Commented) (JIRA)
+689 weeks (Commented) (JIRA)
+690 Anatoliy Kats (Created) (JIRA)
+691 Anatoliy Kats (Commented) (JIRA)
+692 Manuel Blechschmidt (Commented) (JIRA)
+693 Daniel Zohar (Commented) (JIRA)
+694 Andy Alvarado
+695 Sebastian Schelter (Created) (JIRA)
+696 Sean Owen (Created) (JIRA)
+697 Robin Anil (Commented) (JIRA)
+698 Roger Dai (Commented) (JIRA)
+699 Sergey Bartunov (Commented) (JIRA)
+700 Sergey Bartunov (Issue Comment Edited) (JIRA)
+701 Remi Melisson (Commented) (JIRA)
+702 myn
+703 Peyman Mohajerian
+704 Steven Bourke
+705 Remi Melisson (Updated) (JIRA)
+706 magicalo
+707 Paulo Villegas (Commented) (JIRA)
+708 Oliver B. Fischer (Issue Comment Edited) (JIRA)
+709 Oliver B. Fischer (Updated) (JIRA)
+710 Zarko ASENOV (Commented) (JIRA)
+711 Gavin McDonald
+712 Mat Kelcey (Created) (JIRA)
+713 Mat Kelcey (Commented) (JIRA)
+714 Yue Guan (Created) (JIRA)
+715 Yue Guan (Commented) (JIRA)
+716 Nathan Halko (Commented) (JIRA)
+717 Oliver B. Fischer (Closed) (JIRA)
+718 Ted Dunning (Assigned) (JIRA)
+719 Patrick Hunt
+720 Ikumasa Mukai (Issue Comment Edited) (JIRA)
+721 Selvakumar Arumugam (Created) (JIRA)
+722 Ted Dunning (Updated) (JIRA)
+723 Ted Dunning (Resolved) (JIRA)
+724 Jeff Eastman (Resolved) (JIRA)
+725 Deneche A. Hakim (Resolved) (JIRA)
+726 Raphael Cendrillon (Closed) (JIRA)
+727 Selvakumar Arumugam (Commented) (JIRA)
+728 Jake Mannix (Created) (JIRA)
+729 Ankur (Commented) (JIRA)
+730 Varun Thacker (Commented) (JIRA)
+731 Gokhan Capan (Created) (JIRA)
+732 Robert Burrell Donkin
+733 Sebastian Schelter (Assigned) (JIRA)
+734 Sebastian Schelter (Resolved) (JIRA)
+735 Yonik Seeley (Commented) (JIRA)
+736 Grant Ingersoll (Reopened) (JIRA)
+737 Georgi Stanev (Commented) (JIRA)
+738 Rachana
+739 Anatoliy Kats (Updated) (JIRA)
+740 Brent Downs (Commented) (JIRA)
+741 Jake Mannix (Reopened) (JIRA)
+742 Raphael Cendrillon (Issue Comment Edited) (JIRA)
+743 Igor Wiese
+744 Eugene Kirpichov (Commented) (JIRA)
+745 Sean Owen (Assigned) (JIRA)
+746 Andre-Philippe Paquet (Created) (JIRA)
+747 Andre-Philippe Paquet (Commented) (JIRA)
+748 Andre-Philippe Paquet (Updated) (JIRA)
+749 Michael Lazarus (Commented) (JIRA)
+750 Ted Dunning (Created) (JIRA)
+751 Sergey Bartunov (Updated) (JIRA)
+752 Sebastian Schelter (Updated) (JIRA)
+753 Robert Muir (Commented) (JIRA)
+754 Dan Brickley (Issue Comment Edited) (JIRA)
+755 raphael_cendrillon
+756 Deneche A. Hakim (Created) (JIRA)
+757 Sujit Nair (Created) (JIRA)
+758 Sujit Nair (Commented) (JIRA)
+759 Olivier Grisel (Commented) (JIRA)
+760 Dan Brickley (Created) (JIRA)
+761 beneo_7
+762 beneo_7
+763 beneo (Commented) (JIRA)
+764 Lance
+765 Christian Prokopp
+766 Justin Cranshaw
+767 Jonathan Traupman (Commented) (JIRA)
+768 Timothy Potter (Created) (JIRA)
+769 Joe Kumar
+770 web service
+771 Alex Ott
+772 Jonathan Traupman (Updated) (JIRA)
+773 Jonathan Traupman
+774 ÖÜöÎ
+775 Tommaso Teofili
+776 Nathan Halko (JIRA)
+777 Jack Tanner (JIRA)
+778 Tamas Jambor (JIRA)
+779 Dan McCormick
+780 Vishnu (JIRA)
+781 Ankur (JIRA)
+782 Fernando Tapia Rico (JIRA)
+783 Florian Bausch (JIRA)
+784 Phil (JIRA)
+785 Daniel Xiaodan Zhou (JIRA)
+786 Andrew Bayer (JIRA)
+787 Jack He
+788 Christoph Nagel (Updated) (JIRA)
+789 Frank Scholten (Issue Comment Edited) (JIRA)
+790 ww107826
+791 Eugene Kirpichov (Created) (JIRA)
+792 Alan Said
+793 Tanton Gibbs
+794 Fabian Alenius (JIRA)
+795 Alvin AuYoung (Commented) (JIRA)
+796 Christoph Boden (JIRA)
+797 bing wang
+798 bing wang
+799 Patrick Marchwiak
+800 Christoph Nagel (Created) (JIRA)
+801 Xiaobo Gu
+802 Vasil Vasilev (JIRA)
+803 Yarco Hayduk (JIRA)
+804 Cl¨¦ment Notin
+805 air
+806 XiaoboGu (JIRA)
+807 eric skinner
+808 Ran Hamada (JIRA)
+809 surf reta
+810 Tricia Hoffman
+811 Ron Shigeta
+812 patrick.J (JIRA)
+813 Jeff Hansen (JIRA)
+814 praneet mhatre
+815 steven zhuang (JIRA)
+816 XiaoboGu
+817 Christoph Nagel (JIRA)
+818 Yash Sowale
+819 Timmy Wilson
+820 Timmy Wilson
+821 Sergey Bartunov
+822 lufeng (JIRA)
+823 Julian Bell (JIRA)
+824 Tillmann Fiehn (JIRA)
+825 Ian Helmke (JIRA)
+826 Chintamani (JIRA)
+827 Chintamani (JIRA)
+828 Marc Millstone (JIRA)
+829 Ian Upright
+830 Jonathan Traupman (JIRA)
+831 Choon-Siang Lai (JIRA)
+832 Fernando Fern¨¢ndez
+833 Henry Saputra (JIRA)
+834 Patricio Echague (JIRA)
+835 dbg
+836 dbg
+837 Clive Cox (JIRA)
+838 pragati meena (JIRA)
+839 Elmer Garduno
+840 Brett Wines
+841 Hector Yee (JIRA)
+842 Mat Kelcey (JIRA)
+843 Mike Khristo (JIRA)
+844 Mat Kelcey
+845 niu (JIRA)
+846 Daisuke Miyamoto (JIRA)
+847 Robert Muir (JIRA)
+848 Krishna Sankar
+849 Yarco Hayduk
+850 Dhruv
+851 Mike Nute
+852 Dipti Mathur
+853 Daniel McEnnis
+854 Paul, Seby
+855 nn hust
+856 James James
+857 Shaojun Zhao
+858 Paul Baclace (JIRA)
+859 Shingo Yamagami (JIRA)
+860 Martin Leginus (JIRA)
+861 Allan BLANCHARD (JIRA)
+862 Markus Weimer
+863 jinyongbo (JIRA)
+864 Gustavo Salazar Torres (JIRA)
+865 Wojciech Indyk
+866 Oleg Levchenko (JIRA)
+867 Apache Hudson Server
+868 Federico Brubacher
+869 Robert Mahfoud (JIRA)
+870 Alejandro Bellogin Kouki
+871 Christopher Jordan
+872 Randall McRee
+873 Sid
+874 Lahiru Samarakoon
+875 Viktor Gal (JIRA)
+876 Neel Sheyal
+877 bernd hopp (JIRA)
+878 Daisuke Miyamoto
+879 Pararth Shah
+880 Daniel McEnnis (JIRA)
+881 Julien Nioche (JIRA)
+882 Martin Provencher (JIRA)
+883 Chris Newell
+884 Stanislaw Osinski
+885 djellel eddine Difallah
+886 Yuval Merhav
+887 Weishung Chung
+888 Joris Geessels (JIRA)
+889 Zhengguo 'Mike' SUN
+890 zhao zhendong
+891 Andrew Hitchcock
+892 Walter Gillett
+893 Forest Tan (JIRA)
+894 Frank Wang (JIRA)
+895 Yuval Merhav (JIRA)
+896 Maciej Jaskowski
+897 Raviv M-G (JIRA)
+898 Divya
+899 andreyg
+900 Andrey Gusev
+901 Deche Pangestu
+902 Mark Hall
+903 Joe Prasanna Kumar (JIRA)
+904 Jingguo Yao (JIRA)
+905 Rohan Anil (JIRA)
+906 Derek O'Callaghan
+907 pragnesh (JIRA)
+908 pragnesh radadia
+909 David Stuart
+910 Laszlo Dosa (JIRA)
+911 Gangadhar Nittala
+912 Gangadhar Nittala (JIRA)
+913 Matt Spitz (JIRA)
+914 Alexander Hans
+915 Sidharth (JIRA)
+916 Zhen Guo (JIRA)
+917 Harish Tejwani
+918 Sumi
+919 RadimRehurek
+920 Max Heimel (JIRA)
+921 Ankur C. Goel
+922 Ankur C. Goel
+923 Eugen Paraschiv
+924 Hui Wen Han (JIRA)
+925 Chris Wailes
+926 cdwzwd
+927 han henry
+928 Varun Gupta
+929 David G. Boney
+930 tony cui (JIRA)
+931 G¨¦rard Dupont
+932 Chen Li
+933 Max Heimel
+934 zhao zhendong (JIRA)
+935 Neal Clark
+936 Olivier Grisel
+937 Richard Simon Just
+938 sebb
+939 Jay Sellers
+940 Vivek Khanna
+941 Sisir Koppaka
+942 Sisir Koppaka (JIRA)
+943 Emerson Murphy-HIll (JIRA)
+944 Jeremy Handcock (JIRA)
+945 Danny Leshem (JIRA)
+946 Ashutosh Singh
+947 ÕÅ¼Ñ±¦
+948 Jukka Zitting
+949 Sirota, Peter
+950 Scott Ganyo (JIRA)
+951 Florent Empis
+952 Cristian Prodan
+953 Tanya Gupta
+954 Necati Batur
+955 new user (JIRA)
+956 Cristi Prodan (JIRA)
+957 yinghua hu
+958 Luk¨¢? Vl?ek
+959 Zaid Md Abdul Wahab Sheikh
+960 Necati Batur (JIRA)
+961 Y.W.D.D.Dissanayake (JIRA)
+962 Zaid Md. Abdul Wahab Sheikh (JIRA)
+963 Shashikant Kore
+964 Rob Marano (JIRA)
+965 Zoran Sevarac (JIRA)
+966 Jeff Zhang
+967 mike bowles
+968 William Wallace (JIRA)
+969 Kay Kay
+970 cristi prodan
+971 Karl Wettin
+972 Yonik Seeley
+973 D L
+974 Ñî½Ü
+975 Ian Holsman
+976 Sean
+977 Israel Ekpo
+978 Neal Richter
+979 Pallavi Palleti
+980 Pallavi Palleti (JIRA)
+981 Eirik Bj?rsn?s
+982 Palleti, Pallavi
+983 zaki rahaman
+984 Stack
+985 xiao yang
+986 Aurora Skarra-Gallagher
+987 David Hall
+988 Vaijanath N. Rao (JIRA)
+989 Steve Umfleet
+990 Steve Umfleet (JIRA)
+991 Jens Grivolla (JIRA)
+992 Matthias Friedrich (JIRA)
+993 Andrew Purtell
+994 Andrew Wang
+995 Jeff Zhang (JIRA)
+996 Steve Lianoglou
+997 Olivier Grisel (JIRA)
+998 Vaclav Petricek
+999 Prasen Mukherjee (JIRA)
+1000 Sushil Bajracharya (JIRA)
+1001 G?khan ?apan
+1002 Shashikant Kore (JIRA)
+1003 Thilo Goetz
+1004 ant
+1005 Matias Bj?rling
+1006 Joe Bishop
+1007 Shalin Shekhar Mangar
+1008 Bertie Shen
+1009 Matias Bj?rling (JIRA)
+1010 scott w
+1011 Mark Desnoyer
+1012 Paul Elschot
+1013 Nicol¨¢s Fantone (JIRA)
+1014 David Hall (JIRA)
+1015 ops
+1016 M. Arshad Khan (JIRA)
+1017 Mishkin Faustini (JIRA)
+1018 Panagiotis Papadimitriou (JIRA)
+1019 Sebastien Bratieres
+1020 Robert Burrell Donkin (JIRA)
+1021 Bill Au
+1022 Seth Ladd
+1023 LK
+1024 Tim Bass
+1025 Richard Tomsett
+1026 stack
+1027 Amandeep Khurana
+1028 Xuan Yang
+1029 Yifan Wang
+1030 Andr¨¦ Panisson
+1031 Andre Panisson (JIRA)
+1032 isabel
+1033 deng chao
+1034 Daniel Nee (JIRA)
+1035 Stephen Green
+1036 Erik Hatcher
+1037 Tom White
+1038 QIU, Yin
+1039 Jason Rennie
+1040 Richard Tomsett (JIRA)
+1041 Zaid Md. Abdul Wahab Sheikh
+1042 Enis Soztutar
+1043 Chris Hostetter
+1044 a_dene...@yahoo.fr
+1045 Ryan Shih
+1046 Grady Laksmono
+1047 Samuel Louvan
+1048 Ankur Goel
+1049 Vincent Hu
+1050 Philip Ramsey
+1051 Siddharth Prakash Singh
+1052 Goel, Ankur
+1053 Amit Kumar
+1054 Alexander Hans (JIRA)
+1055 Rinaldo DiGiorgio
+1056 Rohini Uppuluri (JIRA)
+1057 Stephan Seufert
+1058 Philippe Lamarche
+1059 Christoph Buescher
+1060 Daniel Tr¨¹mper
+1061 Edward J. Yoon (JIRA)
+1062 Allen Day
+1063 Ajay Anand
+1064 Chris K Wensel
+1065 Karl Wettin (JIRA)
+1066 Allen Day (JIRA)
+1067 vikramaditya jakkula
+1068 Vikramaditya Jakkula
+1069 Chuck Lam
+1070 pi song
+1071 sej
+1072 Dean Wampler
+1073 Xiance SI(Ë¾ÏÜ²ß)
+1074 Brian Whitman
+1075 Lukas Vlcek
+1076 shunkai.fu
+1077 Steven Handerson (JIRA)
+1078 Michael Marth
+1079 peter dapkus (JIRA)
+1080 Josh Myer
+1081 juber patel
+1082 Daniel Kluesing
+1083 Farid Bourennani
+1084 Maurizio (JIRA)
+1085 phonechen
+1086 Andrzej Bialecki
+1087 Jeremy Chow (JIRA)
+1088 Pi Song (JIRA)
+1089 Yuri Niyazov
+1090 Vitalisova, Natallia
+1091 Samee Zahur
+1092 Dubey, Pradeep
+1093 Gary Bradski
+1094 Samee Zahur (JIRA)
+1095 Sergey Chickin (JIRA)
+1096 Luc Maisonobe
+1097 Toby DiPasquale
+1098 Vaijanath N. Rao
+1099 julien nioche (JIRA)
+1100 Ozgur Yilmazel
+1101 Matthew Riley
+1102 jaid...@research.iiit.ac.in
+1103 Anush Shetty
+1104 Marko Novakovic
+1105 Josh Harguess
+1106 edward yoon
+1107 Jason Rennie (JIRA)
+1108 Paul Elschot (JIRA)
+1109 Edward Yoon (JIRA)
+1110 Min Cha
+1111 Fr¨¦d¨¦ric
+1112 Hao Zheng
+1113 Sergey Chickin
+1114 Niranjan Balasubramanian
+1115 Khalil Honsali
+1116 sarp
+1117 Yun Jiang
+1118 Rodrigo Tripodi
+1119 Simone Gianni
+1120 gopi
+1121 Ben Kucinich
+1122 Ken Montanez
+1123 Bertrand Delacretaz
+1124 sandeep dey
+1125 Steven A Rowe
+1126 Mason Tang
+1127 Sandeep Dey
+1128 Dennis Kubes
+1129 Yousef Ourabi
+1130 Steve Rowe
+1131 Vadim Zaliva
+1132 Sami Siren
+1133 Yousef Ourabi (JIRA)

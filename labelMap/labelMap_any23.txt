@@ -1,0 +1,68 @@
+0 Apache Jenkins Server
+1 Lewis John McGibbney (JIRA)
+2 Hudson (JIRA)
+3 asfgit
+4 Chris Mattmann
+5 Lewis John Mcgibbney
+6 Andy Seaborne
+7 suresh gangula (JIRA)
+8 Mattmann, Chris A (3980)
+9 stephane corlosquet (JIRA)
+10 ASF GitHub Bot (JIRA)
+11 Timothy Potter (JIRA)
+12 hadar (JIRA)
+13 LNP (JIRA)
+14 Jen Montes (JIRA)
+15 Mike Linksvayer (JIRA)
+16 Guangyuan Piao (JIRA)
+17 Peter Ansell (JIRA)
+18 St¨¦phane Corlosquet
+19 Melvin Carvalho
+20 Giulio Petrucci (JIRA)
+21 Sebb (JIRA)
+22 Sebb (JIRA)
+23 Thomas Hoppe (JIRA)
+24 Peter Ansell
+25 Szymon Danielczyk
+26 Giovanni Tummarello
+27 Michele Mostarda
+28 Szymon Danielczyk (JIRA)
+29 Michele Mostarda (JIRA)
+30 Davide Palmisano
+31 Reto Gm¨¹r
+32 Sergio Fern¨¢ndez
+33 Gregg Kellogg
+34 Paul A. Houle (JIRA)
+35 Simone Tripodi
+36 sebb
+37 sebb
+38 Rob Vesse (JIRA)
+39 Lev Khomich (JIRA)
+40 lewis john mcgibbney
+41 Markus Lanthaler (JIRA)
+42 Tommaso Teofili
+43 Ruben Verborgh (JIRA)
+44 Wes Turner (JIRA)
+45 Mattmann, Chris A (398J)
+46 Brett Porter
+47 S.L
+48 Ken Ishikawa (JIRA)
+49 Andrey Kutuzov (JIRA)
+50 Humberto Blas
+51 Andy Seaborne (JIRA)
+52 Daniel Shahaf
+53 Greg Stein
+54 Mark Thomas
+55 Kunal P (JIRA)
+56 Debmalya Jash (JIRA)
+57 Maxim Chshanovskiy (JIRA)
+58 Reto Bachmann-Gm¨¹r
+59 Dat Tran (JIRA)
+60 Simone Tripodi (JIRA)
+61 Mattmann, Chris A (388J)
+62 Lev Khomich
+63 Sebastien Richard (JIRA)
+64 Robert Techentin (JIRA)
+65 Koushik Biswas (JIRA)
+66 Reto Bachmann-Gm¨¹r (JIRA)
+67 Marco Fossati (JIRA)

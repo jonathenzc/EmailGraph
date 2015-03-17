@@ -1,0 +1,40 @@
+0 Apache Hudson Server
+1 Lukas Theussl
+2 Dennis Lundberg
+3 Benjamin Bentmann
+4 Brett Porter
+5 Yevgeny Nyden
+6 Vincent Siveton
+7 nsowatsk
+8 Steve Jerman
+9 Michael Remijan
+10 Herv¨¦ BOUTEMY
+11 Vincent Massol
+12 Jason van Zyl
+13 Juan F. Codagnone
+14 Paul Spencer
+15 aectann
+16 Marc Lustig
+17 push
+18 Olivier Lamy
+19 Abhijit Bagri
+20 Wendy Smoak
+21 Arnaud Bailly
+22 Catalin Kormos
+23 Dave Syer
+24 olivier lamy
+25 Carlos Sanchez
+26 Emmanuel Venisse
+27 John Casey
+28 Trygve Laugst?l
+29 David Roussel
+30 David Roussel
+31 Mathieu Avoine
+32 MartinAhrer
+33 Rahul Thakur
+34 Minto van der Sluis
+35 Minto.van.der.Sl...@amsterdam.politie.nl
+36 Dennis Lundberg (JIRA)
+37 Grzegorz Slowikowski
+38 Jason van Zyl (JIRA)
+39 Brett Porter (JIRA)

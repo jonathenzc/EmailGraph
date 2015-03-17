@@ -1,0 +1,91 @@
+0 Henning Schmiedehausen
+1 Leo Simons
+2 hammett
+3 Farr, Aaron
+4 Stephen McConnell
+5 Stefano Mazzocchi
+6 J Aaron Farr
+7 Henning P. Schmiedehausen
+8 Berin Loritsch
+9 Niclas Hedhman
+10 peter royal
+11 Leo Sutic
+12 Michael Clovis
+13 Noel J. Bergman
+14 j...@apache.org
+15 Greg Stein
+16 Paul Hammant
+17 Peter Donald
+18 Stefan Bodewig
+19 Vijay Kumar AB
+20 Vijay Kumar AB
+21 Andreas Oberhack
+22 Alexis Agahi
+23 Cameron Fieber
+24 Alex Karasulu
+25 Leif Mortenson
+26 Bennett, Timothy (JIS/Applications)
+27 Peter Neubauer
+28 David Leangen
+29 Timothy Bennett
+30 Carsten Ziegeler
+31 Sergey M Vladimrov
+32 Sergey M Vladimirov
+33 Anton Tagunov
+34 Peter Courcoux
+35 Scott Brickner
+36 Adam R. B. Jack
+37 d..@avalon.apache.org
+38 p..@scancoin.se
+39 Hamilton Verissimo de Oliveira (Engenharia - SPO)
+40 Hamilton Verissimo de Oliveira (Engenharia - SPO)
+41 Rodent of Unusual Size
+42 Sal Mangano
+43 deve...@softwarefabrik.biz
+44 Priya Soparkar
+45 J?rg Hohwiller
+46 Neeme Praks
+47 Albert Crowley
+48 Paul Smith
+49 Ceki G¨¹lc¨¹
+50 Ernie Hagan
+51 Andrey Rogov
+52 Gonzalo Diethelm
+53 Paul Cooley
+54 Dev
+55 t..@scancoin.se
+56 EmailUser
+57 Paul E Cooley
+58 J?rg Schaible
+59 Fieber, Cameron C FOR:EX
+60 cameron fieber
+61 Andreas Frei
+62 mcconnell
+63 Nader Aeinehchi
+64 David Worms
+65 Svyatoslav Shymkiv
+66 Corey Jewett
+67 Jim Alateras
+68 Shash Chatterjee
+69 Holger Faltinsky/Denic
+70 filip...@cirquedigital.com
+71 Bruno Dumon
+72 Michael Nash
+73 Albert Kwong
+74 Ole Bulbuk
+75 Jason van Zyl
+76 Torsten Curdt
+77 Marco Dubbeld
+78 Jonathan Hawkes
+79 andreas oberhack
+80 david.g...@hic.gov.au
+81 Antoine L¨¦vy-Lambert
+82 David Gray
+83 Tetsuya Kitahata
+84 Daniel Perry
+85 Nicola Ken Barozzi
+86 Mark R. Diggory
+87 Vadim Gritsenko
+88 Sander Striker
+89 Brian W. Fitzpatrick
+90 theeb

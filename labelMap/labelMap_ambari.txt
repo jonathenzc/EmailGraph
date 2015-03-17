@@ -1,0 +1,119 @@
+0 Jonathan Hurley (JIRA)
+1 Jonathan Hurley (JIRA)
+2 Hadoop QA (JIRA)
+3 Hudson (JIRA)
+4 Jonathan Hurley
+5 Tom Beerbower
+6 Nate Cole
+7 kyungwan nam (JIRA)
+8 Yusaku Sako (JIRA)
+9 Andrii Tkach (JIRA)
+10 Andrii Tkach
+11 Alexandr Antonenko
+12 Andriy Babiichuk
+13 Aleksandr Kovalenko
+14 Antonenko Alexander (JIRA)
+15 Aleksandr Kovalenko (JIRA)
+16 Mahadev konar (JIRA)
+17 Sumit Mohanty (JIRA)
+18 Hari Sekhon (JIRA)
+19 jaehoon ko (JIRA)
+20 Dmytro Sen (JIRA)
+21 Szilard Nemethy
+22 Szilard Nemethy
+23 Oleg Nechiporenko (JIRA)
+24 Oleg Nechiporenko
+25 Andrii Babiichuk (JIRA)
+26 Artem Baranchuk (JIRA)
+27 Andrew Onischuk
+28 Andrew Onischuk
+29 Dmytro Sen
+30 Dmitro Lisnichenko
+31 Robert Levas
+32 Jaimin Jetly
+33 Andrew Onischuk (JIRA)
+34 Srimanth Gunturi
+35 Nate Cole (JIRA)
+36 Jaimin D Jetly (JIRA)
+37 Xi Wang (JIRA)
+38 Jayush Luniya (JIRA)
+39 Dmitry Lysnichenko (JIRA)
+40 Vitalyi Brodetskyi
+41 Mahadev Konar
+42 Greg Hill (JIRA)
+43 John Speidel (JIRA)
+44 Jeff Sposetti (JIRA)
+45 Tom Beerbower (JIRA)
+46 Alejandro Fernandez
+47 Srimanth Gunturi (JIRA)
+48 jun aoki
+49 Yusaku Sako
+50 Alejandro Fernandez (JIRA)
+51 Siddharth Wagle (JIRA)
+52 Artem Baranchuk
+53 Florian Barca
+54 Jayush Luniya
+55 Xi Wang
+56 Florian Barca (JIRA)
+57 jun aoki (JIRA)
+58 Sumit Mohanty
+59 Sid Wagle
+60 Sriharsha Chintalapani (JIRA)
+61 Clint Shumack (JIRA)
+62 Tim
+63 Siddharth Seth (JIRA)
+64 Szilard Nemethy (JIRA)
+65 Anthony Penniston (JIRA)
+66 Saman Alvi (JIRA)
+67 Anthony Penniston
+68 Saman Alvi
+69 Ivan Wang
+70 Yurii Shylov (JIRA)
+71 Robert Levas (JIRA)
+72 Erik Bergenholtz (JIRA)
+73 Erik Bergenholtz (JIRA)
+74 Rishi Pidva (JIRA)
+75 Yurii Shylov
+76 Myroslav Papirkovskyy
+77 Andy Berkvam (JIRA)
+78 Sumit Gupta (JIRA)
+79 kyungwan nam
+80 Raveesh Shantharaju
+81 Ivan Mitic (JIRA)
+82 John Speidel
+83 Robert Nettleton
+84 Vitaly Brodetskyi (JIRA)
+85 Erik Bergenholtz
+86 Scott Creeley
+87 Eugene Chekanskiy (JIRA)
+88 Robert Nettleton (JIRA)
+89 Newton Alex (JIRA)
+90 Cabir Zounaidou
+91 Cabir Zounaidou
+92 Thomas Yu
+93 Mingjiang Shi
+94 Myroslav Papirkovskyy (JIRA)
+95 Erin A Boyd (JIRA)
+96 Michael Harp (JIRA)
+97 Erin Boyd
+98 Stuart Pollock (JIRA)
+99 Mingjiang Shi (JIRA)
+100 liulu (JIRA)
+101 Enrique Flores (JIRA)
+102 Enrique Flores (JIRA)
+103 Rishi Pidva
+104 Grace Li
+105 Richard Zang (JIRA)
+106 Scott Creeley (JIRA)
+107 Alexander Denissov (JIRA)
+108 Alexander Denissov
+109 pankaj channe
+110 Dilli Arumugam (JIRA)
+111 Hank Jakiela (JIRA)
+112 Ravi Mutyala
+113 Tristen Georgiou (JIRA)
+114 Dmytro Shkvyra
+115 Eugene Chekanskiy
+116 Alma Bob
+117 Martin Bukatovic (JIRA)
+118 Siddharth Wagle

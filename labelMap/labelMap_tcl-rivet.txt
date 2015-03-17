@@ -1,0 +1,132 @@
+0 Brice Hamon
+1 Massimo Manghi
+2 Georgios Petasis
+3 Jeff Lawson
+4 Hugo Meyer
+5 David Welton
+6 bugzi...@apache.org
+7 Donald Winston
+8 Harald Oehlmann
+9 Rob Maris
+10 Witek Mozga
+11 Arnulf Wiedemann
+12 Donald Paul Winston
+13 Ronnie Brunner
+14 Karl Lehenbauer
+15 Rani Ahmed
+16 Damon Courtney
+17 Alex Greif
+18 Rob Sciuk
+19 Kirill Shtumf
+20 Marco Pallante
+21 David Bigelow
+22 oeh...@apache.org
+23 Mikhail T.
+24 mxman...@apache.org
+25 Nagarajan Chinnasamy
+26 bart...@acatec.de
+27 Google Talk
+28 Cyril Shtumf
+29 Clif Flynt
+30 Sven
+31 Cyril Shumf
+32 Cyril Shumff
+33 Ramesh Venkitaswaran
+34 arnulf
+35 Michael Schlenker
+36 Reinhard Max
+37 Peter C. Lai
+38 Thomas Lloyd
+39 Tom Lloyd
+40 ronnie.brun...@netcetera.ch
+41 k...@apache.org
+42 Tom Brown
+43 crouzilles
+44 skir...@ministras.lt
+45 David Zolli
+46 Valery Masiutsin
+47 Pat Thoyts
+48 Cristian
+49 Feargal Reilly
+50 Xavier Bourguignon
+51 dav...@apache.org
+52 Drew
+53 Daniel Baker
+54 Colman Reilly
+55 Skirmantas Juraska
+56 G...@tcl.no
+57 Eckhard Lehmann
+58 Kristoffer Lawson
+59 Hicks, Robert
+60 Rantanen, Edward IT1
+61 eck...@web.de
+62 Uwe Pfeifer
+63 David N. Welton
+64 Holger Zeinert
+65 Oliver Bienert
+66 Skirmantas Jura?ka
+67 Jaime Toledo Pe?a
+68 Zeinert, Holger
+69 Robert S. Sciuk
+70 Charles_S_Hazl...@raytheon.com
+71 Jeff Hobbs
+72 Wojciech Kocjan
+73 Cyrille VIVION
+74 Jake Miles
+75 Ben L.
+76 pattho...@apache.org
+77 Roy Keene
+78 Tom Sas
+79 Michael Link
+80 Pedro Guillem
+81 Gavin McLeod
+82 David Brancato
+83 da...@websiteguard.com
+84 Henk, Carsten
+85 Hicks, Bob
+86 Shishir Ramam
+87 Johan Kristian Christie
+88 tagu...@iij.ad.jp
+89 J¨¢nos Hol¨¢nyi
+90 Dmitry the Zuryanovich
+91 Jim M. McNamara
+92 Andy Doerr
+93 ?a?d???? ?as??e???
+94 Tom Krehbiel
+95 Go...@ tcl.no
+96 Vassilis A. Mardiris
+97 Raul Elizondo (wizardteam)
+98 ILaza...@Away.com
+99 Taneli Saastamoinen
+100 Mark L. Jackson
+101 jim mcnamara
+102 Peter da Silva
+103 andydo...@apache.org
+104 Forsite //HPG
+105 Bodri
+106 Carl W. Jolly
+107 b...@sc.com
+108 ronald s chong
+109 Jeff Anctil
+110 kwile...@earthlink.net
+111 Brawn, Nicholas
+112 Nicholas Brawn
+113 Bauer, Christoph
+114 SmAsH
+115 Kelly Wiles
+116 dam...@apache.org
+117 Robert Noyer
+118 fxper
+119 Craig Huckabee
+120 Kevin McCarthy
+121 W. Jeffrey Rankin
+122 Jeff Rankin
+123 tagu...@tohoku.iij.ad.jp
+124 Makoto Satoh
+125 Randy Stanard
+126 Reema.Ban...@nokia.com
+127 Mark
+128 David Paquin
+129 Olly Stephens
+130 Makoto SATOH
+131 Stathis Stavrakis

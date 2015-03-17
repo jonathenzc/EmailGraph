@@ -1,0 +1,236 @@
+0 Apache Jenkins Server
+1 Sushmitha (JIRA)
+2 ZOILA (JIRA)
+3 william kelley (JIRA)
+4 Andreas Veithen (JIRA)
+5 NIRAJ (JIRA)
+6 Sebb (JIRA)
+7 Goran Djuric (JIRA)
+8 Simon Erhardt (JIRA)
+9 robert allurent (JIRA)
+10 ant elder (JIRA)
+11 Scott Franson (JIRA)
+12 Tester (JIRA)
+13 Nicolas Couturier
+14 ant elder
+15 Nicolas Couturier (JIRA)
+16 Everett Toews (JIRA)
+17 Jagannayakam Sundaram
+18 Rahim Kanjiyani (JIRA)
+19 NagaPrasad (JIRA)
+20 tuxdna
+21 Felix Meschberger
+22 Saleem Ansari (JIRA)
+23 Tan Nguyen Cong (JIRA)
+24 Andrew Garman (JIRA)
+25 Christine Koppelt
+26 Christine Koppelt (JIRA)
+27 Massyl Nait (JIRA)
+28 Massyl Nait (JIRA)
+29 Ivan Bondarenko (JIRA)
+30 Andreas Veithen
+31 gil cattaneo (JIRA)
+32 gil cattaneo (JIRA)
+33 Denilson Nastacio (JIRA)
+34 Sergey Beryozkin (JIRA)
+35 liutengfei (JIRA)
+36 liutengfei (JIRA)
+37 Eric Charles
+38 Claus Ibsen (JIRA)
+39 Sha Nish
+40 uday shankar singh (JIRA)
+41 James M Snell (Commented) (JIRA)
+42 Denny Pichardo (Commented) (JIRA)
+43 Denny Pichardo (Resolved) (JIRA)
+44 Denny Pichardo (Closed) (JIRA)
+45 Matteo Moci
+46 Matteo Moci
+47 Thomas Koch
+48 Thomas Koch
+49 James M Snell
+50 James Snell
+51 Stephen Crawley (Commented) (JIRA)
+52 Daniel E. Renfer
+53 Jukka Zitting
+54 Sameera Jayasoma (Created) (JIRA)
+55 Olve S?ther Hansen (Commented) (JIRA)
+56 Jalal U Mahmud
+57 liuyanyan (Commented) (JIRA)
+58 liuyanyan (Updated) (JIRA)
+59 pschulten (Commented) (JIRA)
+60 Andreas Veithen (Commented) (JIRA)
+61 secretar...@isast.org
+62 Sanjiva Weerawarana
+63 Olve Hansen
+64 Andreas Veithen (Updated) (JIRA)
+65 ant elder (Closed) (JIRA)
+66 Chad Lung (JIRA)
+67 James M Snell (JIRA)
+68 Michael Yates (JIRA)
+69 Dan Beaulieu
+70 Apache Hudson Server
+71 David Calavera
+72 ckoppelt
+73 Rick Meyer
+74 Paul Wilton
+75 Paul Wilton
+76 Garrett Rooney
+77 Guillaume Nodet
+78 Glen Daniels
+79 Leiann Zvacek (JIRA)
+80 Josh Gordineer
+81 sreekanth (JIRA)
+82 Tim Pizey
+83 Tong Xiang Fan (JIRA)
+84 Jim Ancona
+85 ck
+86 Niklas Lindstr?m
+87 Luciano Resende
+88 Reese, Nathan
+89 shelan Perera
+90 Jacek Obarymski (JIRA)
+91 Pascal Christoph
+92 Senaka Fernando
+93 Am¨¦lie Avramo (JIRA)
+94 Sean Sullivan
+95 Robin Fernandes (JIRA)
+96 Ugo Cei
+97 Darren Bounds
+98 Lars Trieloff
+99 Neale Upstone (JIRA)
+100 Daniel Lichtenberger (JIRA)
+101 Shiva Kumar H R
+102 Amit Surana
+103 Chiradip Narayan Mandal
+104 Jun Yang
+105 Clayton Coleman (JIRA)
+106 jasn...@gmail.com
+107 Deepal Jayasinghe
+108 Kalani Ruwanpathirana
+109 Jon Hewitt (JIRA)
+110 Niklas Lindstr?m (JIRA)
+111 Davanum Srinivas
+112 J G (JIRA)
+113 Lars Trieloff (JIRA)
+114 Shankar Dhakshinamoorthy (JIRA)
+115 Ronal Cori (JIRA)
+116 Nathan Beyer
+117 Sergio Bossa
+118 Benson Margulies (JIRA)
+119 Garrett Rooney (JIRA)
+120 Alexander Snaps
+121 Ward Harold
+122 Chris K Wensel (JIRA)
+123 Simon Lucy
+124 Michael Ahern (JIRA)
+125 David Calavera (JIRA)
+126 stack (JIRA)
+127 Paul Querna
+128 David Primmer
+129 pdk
+130 Stephen Duncan Jr
+131 Aaron Evans (JIRA)
+132 MuleForge Bamboo CI Server
+133 Carsten Ziegeler
+134 Luciano Resende (JIRA)
+135 Adam Constabaris
+136 Chris Berry
+137 Jim Ancona (JIRA)
+138 pratimat
+139 Amit Surana (JIRA)
+140 Dan Becker
+141 Christopher Elkins (JIRA)
+142 Dan Diephouse
+143 Sergio Bossa (JIRA)
+144 M Harris
+145 ed_ruder
+146 Christopher Elkins
+147 Todd Wells
+148 Todd Wells (JIRA)
+149 Vasudeva Nori
+150 ugo cei
+151 Glen Daniels (JIRA)
+152 Derek Carr (JIRA)
+153 Stefano Linguerri (JIRA)
+154 Xu Zhang (JIRA)
+155 ugo.cei
+156 Runping Qi (JIRA)
+157 Remy Gendron
+158 Robert Sayre
+159 Alexander Zynevich (JIRA)
+160 Christoph Bauer
+161 Remy Gendron (JIRA)
+162 Dan Diephouse (JIRA)
+163 UCHIDA Hitoshi
+164 Chris Berry (JIRA)
+165 Deepal jayasinghe
+166 Abhinav Khandelwal (JIRA)
+167 Dave
+168 Vasu Nori
+169 Stephen Duncan Jr (JIRA)
+170 vasu nori (JIRA)
+171 Adam Fisk
+172 Deepal Jayasinghe (JIRA)
+173 Robert Burrell Donkin
+174 Brian Moseley
+175 Stephen Duncan
+176 David Nuescheler
+177 Stefan Guggisberg
+178 Jimy Joshi
+179 David Illsley
+180 abc (JIRA)
+181 Neale (JIRA)
+182 herbert welker (JIRA)
+183 herbert
+184 Jim Alateras
+185 esc heraz (JIRA)
+186 Davanum Srinivas (JIRA)
+187 Charitha Kankanamge (JIRA)
+188 Rob Evans (JIRA)
+189 Ugo Cei (JIRA)
+190 Wing Yung (JIRA)
+191 Thilina Gunarathne
+192 J Aaron Farr
+193 NIcolas Maisonneuve (JIRA)
+194 Gogulakrishnan (JIRA)
+195 Brian McCallister (JIRA)
+196 jsolderitsch
+197 J?rg Prante
+198 Adam Constabaris (JIRA)
+199 Lin ChiuPo (JIRA)
+200 rob
+201 Hac¨¨ne (JIRA)
+202 Harris Boyce III
+203 Jeremy Hughes
+204 Emmanuel Lecharny
+205 Yoav Shapira
+206 Elias Torres
+207 Elias Torres (JIRA)
+208 Roy T. Fielding
+209 Daniel Kulp
+210 Rogers Cadenhead
+211 Nell Gawor (JIRA)
+212 Aditya Gore
+213 Hugo Duncan
+214 Andrei Filimonov
+215 Martin Cooper
+216 Steven Isaacson
+217 Charles Adkins
+218 Denis Kishenko (JIRA)
+219 Michael Wechner
+220 Vera Petrashkova (JIRA)
+221 Keith Godwin Chapman (JIRA)
+222 froggy000
+223 Bill Brown
+224 Sam Ruby
+225 Shane O Sullivan (JIRA)
+226 Robert Yates
+227 Danny Ayers
+228 BJ Freeman (JIRA)
+229 Niklas Gustavsson (JIRA)
+230 Joel Hawkins (JIRA)
+231 joe kim
+232 Rajkumar Kothapa (JIRA)
+233 Gav....
+234 Gav...
+235 Adrian Sutton

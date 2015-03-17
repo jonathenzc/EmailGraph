@@ -1,0 +1,110 @@
+0 Cron Daemon
+1 Fred Moyer
+2 Adam Prime
+3 Andrew Beverley
+4 Philip M. Gollucci
+5 Philippe M. Chiasson
+6 Randy Kobes
+7 Randal L. Schwartz
+8 Mark Hedges
+9 Bill Moseley
+10 David Baird
+11 Frank Wiles
+12 Jonathan Vanasco
+13 Stas Bekman
+14 Issac Goldstand
+15 Geoffrey Young
+16 Jonathan
+17 Perrin Harkins
+18 Hendrik Van Belleghem
+19 Aleksandr Guidrevitch
+20 Miles Crawford
+21 Evan A. Zacks
+22 Evan A. Zacks
+23 Enrico Sorcinelli
+24 Allan Juul
+25 Ville Skytt?
+26 Alek O. Komarnitsky
+27 Marcus J. Coles
+28 Ofer Nave
+29 Bill McGonigle
+30 allan juul
+31 Brandt Kurowski
+32 Todd Finney
+33 Slaven Rezic
+34 Robert Spier
+35 William McKee
+36 William McKee
+37 Philippe M.Chiasson
+38 Justin Erenkrantz
+39 Kemin Zhou
+40 David Wheeler
+41 J?rgen Thomsen
+42 Thomas Wild
+43 f...@taperfriendlymusic.org
+44 Alex Krohn
+45 Fabian Stiebritz
+46 Thomas Klausner
+47 Petr Duchon
+48 C.Hauser - IT assistance GmbH
+49 Simon McCaughey
+50 Jonathan M. Hollin
+51 Larry Leszczynski
+52 Afgin Shlomit
+53 Andy Lester
+54 Eric Cholet
+55 nob...@cpan.org
+56 Gerald Richter
+57 Jack Nerad
+58 cs...@fx.ro
+59 Egor Korablev
+60 dwbr...@webitplanet.com
+61 Shashank Kailash Shringi
+62 Shane Perry
+63 Dennis G. Allard
+64 Matt J. Avitable
+65 Ask Bjoern Hansen
+66 Simon Perreault
+67 Martin Edenhofer
+68 Per Einar Ellefsen
+69 d...@zsi.at
+70 allan
+71 Cure
+72 Brian Hirt
+73 Joel Palmius
+74 Brian Behlendorf
+75 Thomas Eibner
+76 Matt Brooks
+77 William C (Bill) Jones
+78 Ben Duncan
+79 Lyle Brooks
+80 Doug MacEachern
+81 per.einar
+82 Rich Bowen
+83 Tom Mornini
+84 Chris Vertonghen at Home
+85 Todd Markle
+86 David Dyer-Bennet
+87 David Kaufman
+88 Simon Perrault
+89 Sean Batt
+90 Jack Carroll
+91 Eric Frazier
+92 Drew Taylor
+93 James G Smith
+94 Gerald Richter - ecos gmbh
+95 mike demers
+96 i49...@inet.uni2.dk
+97 Jorge Godoy
+98 Lincoln Stein
+99 Wim Kerkhoff
+100 Matt Sergeant
+101 jon schatz
+102 Andreas J. Koenig
+103 lambre...@inet.uni2.dk
+104 Jim Smith
+105 Philip Mak
+106 CB...@coradiant.com
+107 J. J. Horner
+108 Stas
+109 Tatsuhiko Miyagawa

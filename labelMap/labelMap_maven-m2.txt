@@ -1,0 +1,13 @@
+0 jdca...@apache.org
+1 Emmanuel Venisse
+2 Brett Porter
+3 Brett Porter (JIRA)
+4 John Casey
+5 jvan...@maven.org
+6 br...@apache.org
+7 Michal Maczka
+8 Maczka Michal
+9 John Casey (JIRA)
+10 Carlos Sanchez
+11 Jason van Zyl
+12 Rafal Krzewski

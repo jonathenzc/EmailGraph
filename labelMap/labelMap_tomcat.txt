@@ -1,0 +1,69 @@
+0 Apache Wiki
+1 Mark Thomas
+2 Bill Barker
+3 R¨¦my Maucherat
+4 bugzi...@apache.org
+5 Felix Schumacher
+6 ma...@apache.org
+7 Konstantin Kolinko
+8 Jeanfrancois Arcand
+9 Yoav Shapira
+10 Martin Grigorov
+11 Christopher Schultz
+12 Violeta Georgieva
+13 Rainer Jung
+14 Pierre Viret
+15 Filip Hanik
+16 jboy...@apache.org
+17 r...@apache.org
+18 Benson Margulies (JIRA)
+19 Olivier Lamy
+20 ol...@apache.org
+21 jean-frederic clere
+22 Mladen Turk
+23 schu...@apache.org
+24 Dennis Lundberg (JIRA)
+25 Olivier Lamy (*$^¡§%`?) (JIRA)
+26 Andrey Utkin (JIRA)
+27 violet...@apache.org
+28 sebb
+29 Hudson (JIRA)
+30 jieryn (JIRA)
+31 kkoli...@apache.org
+32 Fabrice Bellingard
+33 Henri Gomez
+34 Sylvain Laurent
+35 Emmanuel Bourg
+36 Stefan Bodewig
+37 Lulseged Zerfu
+38 Daniel Mikusa
+39 build...@apache.org
+40 jfcl...@apache.org
+41 Ognjen Blagojevic
+42 Konstantin Kolinko (JIRA)
+43 Pasi Niemi (JIRA)
+44 Diego Ruotolo
+45 Falco Schwarz
+46 Mark Struberg
+47 Jean-Louis MONTEIRO
+48 Romain Manni-Bucau
+49 Matej Spiller-Muys (JIRA)
+50 Niki Dokovski
+51 Martin Knoblauch
+52 Freddy Mallet
+53 Konstantin Prei?er
+54 Caldarale, Charles R
+55 Rory O'Donnell Oracle, Dublin Ireland
+56 vaibhav kulkarni
+57 kpreis...@apache.org
+58 Rory O'Donnell
+59 Scott Severtson
+60 Mike Holdsworth (JIRA)
+61 Tim Whittington
+62 kfuj...@apache.org
+63 Rory O'Donnell Oracle, Dublin ireland
+64 Brian Burch
+65 Keiichi Fujino
+66 Rich Bowen
+67 Nick Williams
+68 Gabriel S¨¢nchez Mart¨ªnez

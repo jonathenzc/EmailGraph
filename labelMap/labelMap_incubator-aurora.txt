@@ -1,0 +1,88 @@
+0 ASF IRC Bot
+1 Bill Farner
+2 Apache Jenkins Server
+3 Dobromir Montauk
+4 Jay Buffington
+5 Kevin Sweeney
+6 Zameer Manji
+7 Joshua Cohen
+8 David McLaughlin
+9 Maxim Khutornenko
+10 Joe Stein
+11 Jake Farrell
+12 Erb, Stephan
+13 Henry Saputra
+14 Benjamin Hindman
+15 Joe Smith
+16 Brian Wickman
+17 Isaac Councill
+18 John Sirois
+19 Josh Adams
+20 David Pan
+21 Mark Chu-Carroll
+22 Marvin
+23 Chris Lambert
+24 Tony Dong
+25 Oliver, James
+26 Dave Lester
+27 Alexius Ludeman
+28 Jeffrey Davis
+29 Yasumoto
+30 Stephan Erb
+31 Bhuvan Arumugam
+32 Damien Hardy
+33 Ra¨²l Guti¨¦rrez Segal¨¦s
+34 Kevin Burg
+35 Justin Mclean
+36 Toby Weingartner
+37 Ahmed Ali
+38 Jeffrey N. Davis
+39 Joseph Smith
+40 James Oliver
+41 Ahmed Aley
+42 Lili Nader
+43 meghdoot bhattacharya
+44 Anindya Sinha
+45 hsaputra
+46 Suman Karumuri
+47 Dan Norris
+48 Sebastien Goasguen
+49 wfarner
+50 Madan, Smarth
+51 Rose, Jeff
+52 Benjamin Mahler
+53 retrack
+54 sebgoa
+55 David Siegel
+56 Antoine Tollenaere
+57 Bryan Helmkamp
+58 Suman Karumuri (JIRA)
+59 Suman Karumuri (JIRA)
+60 Jake Farrell (JIRA)
+61 Tom Galloway
+62 Tobias Weingartner
+63 vonPuh fonPuhendorf
+64 vonPuh fonPuhendorf
+65 Bill Farner (JIRA)
+66 Dave Lester (JIRA)
+67 Kevin Sweeney (JIRA)
+68 Joe Smith (JIRA)
+69 Hudson (JIRA)
+70 Raul Gutierrez Segales (JIRA)
+71 Maxim Khutornenko (JIRA)
+72 brian wickman (JIRA)
+73 Mark Chu-Carroll (JIRA)
+74 Mark Chu-Carroll (JIRA)
+75 Jonathan Boulle (JIRA)
+76 Tobias Weingartner (JIRA)
+77 Chris Lambert (JIRA)
+78 Jeff Currier (JIRA)
+79 Jonathan Boulle
+80 Longbin Chen
+81 Zameer Manji (JIRA)
+82 Zameer Manji (JIRA)
+83 Tim Julien (JIRA)
+84 Marko Gargenta
+85 Marko Gargenta
+86 Yingbo Wang
+87 Yuan
